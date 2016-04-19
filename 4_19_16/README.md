@@ -1,2 +1,2 @@
 # class-space
-Class space for submitting assignments; subdirectory URLs go on Canvas!
+Submissions for DictReader and DictWriter, April 19
