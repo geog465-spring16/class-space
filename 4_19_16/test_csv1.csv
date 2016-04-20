@@ -1,0 +1,4 @@
+Name,Alt_Name,xPos,yPos,hours,Feature_Desc,YOUTH_ONLY,LIGHTING
+Park1,Good Park,-120.4,47.4,8 am - 10 pm,Tennis Court,FALSE,TRUE
+Park2,Better Park,-120.5,47.5,8 am - 10 pm,Swimming Pool,FALSE,FALSE
+Park3,Best Park,-120.6,47.6,8 am - 10 pm,Climbing Rock,FALSE,TRUE
