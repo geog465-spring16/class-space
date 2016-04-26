@@ -1,0 +1,135 @@
+-- Created by Vertabelo (http://vertabelo.com)				
+-- Last modification date: 2016-04-23 01:39:59.233
+
+-- tables
+-- Table: Application_Information
+CREATE TABLE Application_Information (				#Creates table titled "Applicaiton_Information"
+    ID int  NOT NULL,						#Column 1 titled "ID" with integer as the type
+    Application_Permit int  NOT NULL,				#Column 2 titled "Applicant_Permit" with integer as the type
+    Applicant_Name varchar(25)  NOT NULL,			#Column 3 titled "Applicant_Name" with a 25 character limit varchar as the type
+    Application_Date date  NOT NULL,				#Column 4 titled "Application_Date" with the date as the type
+    Application_Status int  NOT NULL,				#Column 5 titled "Application_Status" with integer as type
+    Location_ID int  NOT NULL,					#Column 6 titled "Location_ID" as integer for type
+    Project_Information_ID int  NOT NULL,			#Column 7 titled "Project_Information_ID" with integer as the type
+    CONSTRAINT Application_Information_pk PRIMARY KEY (ID)	#Sets "ID" as the Primary Key with integer as the type
+);
+
+-- Table: Building_Permits
+CREATE TABLE Building_Permits (					#Creates table titled "Building_Permits"
+    ID int  NOT NULL,						#Column 1 titled "ID"
+    Location_ID int  NOT NULL,					#Column 2 titled "Location_ID"
+    Project_Information_ID int  NOT NULL,			#Column 3 titled "Project_Information_ID
+    Application_Information_ID int  NOT NULL,			#Column 4 titled "Application_Information"
+    CONSTRAINT Building_Permits_pk PRIMARY KEY (ID)		#Sets the ID as the pimary key
+);
+
+-- Table: Location
+CREATE TABLE Location (						#"    "
+    ID int  NOT NULL,						#"    "
+    Address varchar(25)  NOT NULL,				#"    "
+    Latitude decimal(20,2)  NOT NULL,				#"    "
+    Longitude decimal(20,2)  NOT NULL,				#"    "
+    CONSTRAINT Location_pk PRIMARY KEY (ID)			#"    "
+);
+
+-- Table: Permit_Information
+CREATE TABLE Permit_Information (				#"    "
+    ID int  NOT NULL,						#"    "
+    Permit_Type int  NOT NULL,					#"    "
+    Description varchar(100)  NOT NULL,				#"    "
+    Category varchar(20)  NOT NULL,				#"    "
+    Contractor varchar(25)  NOT NULL,				#"    "
+    Master_Use_Permit int  NOT NULL,				#"    "
+    Permit_Issue_Date date  NOT NULL,				#"    "
+    Final_Date date  NOT NULL,					#"    "
+    Expiration_Date date  NOT NULL,				#"    "				
+    Location_ID int  NOT NULL,					#"    "
+    Project_Information_ID int  NOT NULL,			#"    "
+    Application_Information_ID int  NOT NULL,			#"    "
+    CONSTRAINT Permit_Information_pk PRIMARY KEY (ID)		#"    "
+);
+
+-- Table: Project_Information
+CREATE TABLE Project_Information (				#"    "
+    ID int  NOT NULL,						#"    "
+    Action_Type varchar(25)  NOT NULL,				#"    "
+    Work_Type int  NOT NULL,					#"    "
+    Value int  NOT NULL,					#"    "
+    Location_ID int  NOT NULL,					#"    "
+    CONSTRAINT Project_Information_pk PRIMARY KEY (ID)		#"    "
+);
+
+-- foreign keys
+-- Reference: Application_Information_Location (table: Application_Information)
+ALTER TABLE Application_Information ADD CONSTRAINT Application_Information_Location 		#Sets relationship from Location table to the Application_Information Table
+    FOREIGN KEY (Location_ID)
+    REFERENCES Location (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Application_Information_Project_Information (table: Application_Information)	#Sets relationship form the Project_Information to the Application_Information Table
+ALTER TABLE Application_Information ADD CONSTRAINT Application_Information_Project_Information
+    FOREIGN KEY (Project_Information_ID)
+    REFERENCES Project_Information (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Building_Permits_Application_Information (table: Building_Permits)		#Sets relationship from the Application_Information Table to the Building_Permits Table
+ALTER TABLE Building_Permits ADD CONSTRAINT Building_Permits_Application_Information
+    FOREIGN KEY (Application_Information_ID)
+    REFERENCES Application_Information (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Building_Permits_Location (table: Building_Permits)				#Sets the relationship from the Location Table to the Building_PErmits Table
+ALTER TABLE Building_Permits ADD CONSTRAINT Building_Permits_Location
+    FOREIGN KEY (Location_ID)
+    REFERENCES Location (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Building_Permits_Project_Information (table: Building_Permits)
+ALTER TABLE Building_Permits ADD CONSTRAINT Building_Permits_Project_Information		#Sets the relationship from Project_Information table to the Building_PErmits table
+    FOREIGN KEY (Project_Information_ID)
+    REFERENCES Project_Information (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Permit_Information_Application_Information (table: Permit_Information)		#Sets the relationship from the Application_Information table to the Permit_Information table
+ALTER TABLE Permit_Information ADD CONSTRAINT Permit_Information_Application_Information
+    FOREIGN KEY (Application_Information_ID)
+    REFERENCES Application_Information (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Permit_Information_Location (table: Permit_Information)				#Sets the relationship from the Location table to the Permit_Information table
+ALTER TABLE Permit_Information ADD CONSTRAINT Permit_Information_Location
+    FOREIGN KEY (Location_ID)
+    REFERENCES Location (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Permit_Information_Project_Information (table: Permit_Information)		#Sets the relationship from the Project_Information to the Permit_Information table
+ALTER TABLE Permit_Information ADD CONSTRAINT Permit_Information_Project_Information
+    FOREIGN KEY (Project_Information_ID)
+    REFERENCES Project_Information (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- Reference: Project_Information_Location (table: Project_Information)				#Sets the relationship form the Location table to the Project_Information table
+ALTER TABLE Project_Information ADD CONSTRAINT Project_Information_Location
+    FOREIGN KEY (Location_ID)
+    REFERENCES Location (ID)  
+    NOT DEFERRABLE 
+    INITIALLY IMMEDIATE
+;
+
+-- End of file.
