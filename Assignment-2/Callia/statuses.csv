@@ -1,15 +1,1 @@
- id,Status
-,AP Closed
-,Permit Issued
-,Application Accepted
-,Reviews Completed
-,
-,Initial Information Collected
-,CANCELLED
-,Permit Closed
-,Permit Finaled
-,Inspections Added
-,Cert of Occupancy Authorized
-,AP Finaled
-,Information Collected
-,Information Converted
+ id,Status1,AP Closed2,Permit Issued3,Application Accepted4,Reviews Completed5,6,Initial Information Collected7,CANCELLED8,Permit Closed9,Permit Finaled10,Inspections Added11,Cert of Occupancy Authorized12,AP Finaled13,Information Collected14,Information Converted
