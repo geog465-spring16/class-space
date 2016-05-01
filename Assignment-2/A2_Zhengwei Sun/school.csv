@@ -1,0 +1,81 @@
+id,school_name,phone_number,address,zip_code,website,shape_id,grade_id,city_id
+1,St. Paul School,206.725.0780,10001 57th Ave S,98178_2299,www.seattlestpaul.org,NULL,NULL,NULL
+2,St. Therese Catholic Academy ,206.324.0460,900 35th Ave,98122_5299,www.stthereseseattle.org,NULL,NULL,NULL
+3,St. Alphonsus School,206.782.4363,5816 15th Ave NW,98107_3096,http://www.stalseattle.org/,NULL,NULL,NULL
+4,St. Joseph School,206.329.3260,700 18th Ave E,98112_3900,www.stjosephsea.org,NULL,NULL,NULL
+5,St. Edwards School,206.725.1774,4200 S Mead St,98118_2795,www.saintedwardseattle.org,NULL,NULL,NULL
+6,Holy Family School,206.767.6640,9615 20th Ave SW,98106_2786,www.hfseattle.org/school,NULL,NULL,NULL
+7,Amazing Grace Christian School,206.723.5526,10056 Renton Ave S,98178_2255,www.agcschool.org,NULL,NULL,NULL
+8,Lake WA Girls Middle School,206.709.3800,810 18th Ave,98122_4747,www.lwgms.org,NULL,NULL,NULL
+9,Seattle Urban Academy,206.723.0333,3800 S Othello St,98118_3562,www.seattleurbanacademy.org,NULL,NULL,NULL
+10,MMSC Day School,206.523.9766,8511 15th Avenue NE,98115_3101,www.mmscdayschool.org,NULL,NULL,NULL
+11,Billings Middle School,206.547.4614,7217 Woodlawn Ave NE,98115_5335,www.billingsmiddleschool.org,NULL,NULL,NULL
+12,Seattle Area German American School,206.235.5969,520 NE Ravenna Blvd,98115_6460,www.sagaschool.org,NULL,NULL,NULL
+13,Sound View Education ,206.214.1011,9205 3rd Ave Sw,98106_3106,sterlinged.org,NULL,NULL,NULL
+14,Seattle Nativity School,206.384.2126,2800 S Massachusetts St,98144_3870,www.seattlenativity.org,NULL,NULL,NULL
+15,Morningside Academy,206.709.9500,201 Westlake Ave N,98109_5217,www.morningsideacademy.org,NULL,NULL,NULL
+16,Matheia School,206.283.1828,2205 NW 67th St,98117_5737,www.matheia.org,NULL,NULL,NULL
+17,Tilden School,206.938.4628,4105 California Ave SW,98116_4101,www.tildenschool.org,NULL,NULL,NULL
+18,Giddens School,206.324.4847,620 20th Ave S,98144_2209,www.giddensschool.org,NULL,NULL,NULL
+19,Kapka Cooperative School,206.522.0350,510 N 49th St,98103_6420,www.kapkaschool.org,NULL,NULL,NULL
+20,The Lake and Park School,206.721.3480,3201 Hunter Blvd S,98144_7029,www.lakeandpark.org,NULL,NULL,NULL
+21,Our Lady Of The Lake School,206.525.9980,3520 NE 89th St,98115_3648,www.ollseattle.org,NULL,NULL,NULL
+22,Meridian School,206.632.7154,4629 Sunnyside Ave N  Ste 242,98103,www.meridianschool.edu,NULL,NULL,NULL
+23,University Preparatory,206.525.2714,8000 25th Ave NE,98115_4600,www.universityprep.org,NULL,NULL,NULL
+24,Seattle Lutheran High School,206.937.7722,4100 SW Genesee St,98116_4216,www.seattlelutheran.org,NULL,NULL,NULL
+25,Epiphany School,206.323.9011,3611 E Denny Way,98122_3423,www.epiphanyschool.org,NULL,NULL,NULL
+26,Westside School,206.932.2511,7740 34th Ave SW,98126_3503,www.westsideschool.org,NULL,NULL,NULL
+27,Academy for Precision Learning ,206.427.0115,5031 University Way NE     ,98105_4341,www.aplschool.org,NULL,NULL,NULL
+28,Pacific Crest Schools,206.789.7889,600 NW Bright St,98107_4451,www.pacificcrest.org,NULL,NULL,NULL
+29,Northwest Montessori,206.524.4244,4910 Phinney Ave N                   ,98103_6347,www.northwestmontessori.org,NULL,NULL,NULL
+30,St. Benedict School,206.633.3375,4811 Wallingford Ave N,98103_6899,www.stbens.net,NULL,NULL,NULL
+31,Bright Water School,206.624.6176,1501 Tenth Ave E  Suite 100,98102_4256,www.brightwaterschool.org,NULL,NULL,NULL
+32,Seattle Waldorf School,206.524.5320,2728 NE 100th St,98125_7712,www.seattlewaldorf.org,NULL,NULL,NULL
+33,The Bush School,206.322.7978,3400 E Harrison,98112_4268,www.bush.edu,NULL,NULL,NULL
+34,Our Lady of Guadalupe School,206.935.0651,3401 SW Myrtle St,98126_3399,guadalupe_school.org,NULL,NULL,NULL
+35,Koinonia Learning Academy,206.721.2446,3019 S Angeline St                                  ,98118,www.Koinonia.edu,NULL,NULL,NULL
+36,Seattle Prep/Matteo Ricci College,206.577.2102,2400 11th Ave E,98102_4016,www.seaprep.org,NULL,NULL,NULL
+37,Seattle Jewish Community School,206.522.5212,12351 8th Ave NE,98125_4805,www.sjcs.net,NULL,NULL,NULL
+38,St. Matthew School,206.362.2785,1230 NE 127th St,98125_4021,www.stmattschool.org,NULL,NULL,NULL
+39,Taproot School,206.849.7146,9131 California Ave SW,98136_2551,www.taprootschool.org,NULL,NULL,NULL
+40,Perkins School,206.526.8217,9005 Roosevelt Way NE,98115_3030,www.perkinsschool.com,NULL,NULL,NULL
+41,Zion Preparatory Academy,206.721.1586,4730 32nd Ave S,98118_1702,www.zionprep.org,NULL,NULL,NULL
+42,Seattle Academy of Arts/Sciences,206.323.6600,1201 E Union St,98122_3925,www.seattleacademy.org,NULL,NULL,NULL
+43,Assumption St. Bridget,206.524.7452,6220 32nd Ave NE,98115_7233,www.asbschool.org,NULL,NULL,NULL
+44,Spring Academy,206.363.3600,113045 8th Ave NE  Suite A,98125,www.springacademy.com,NULL,NULL,NULL
+45,Applied Scholastics Academy of Seattle,206.522.5992 206.369.7833,520 NE Ravenna Blvd,98115_6460,www.asa_seattle.org,NULL,NULL,NULL
+46,Alcuin School,206.286.0771,216 W Boston,98119_2641,www.alcuinschool.com,NULL,NULL,NULL
+47,Lakeside School,206.368.3600,14050 1st Ave NE,98125_3099,www.lakesideschool.org,NULL,NULL,NULL
+48,Hamlin Robinson School,206.763.1167,1700 E Union St.,98122_4140,www.hamlinrobinson.org,NULL,NULL,NULL
+49,Spruce Street School,206.621.9211,914 Virginia St,98101_1426,www.sprucestreetschool.org,NULL,NULL,NULL
+50,First Place,206.323.6715,172 20th Avenue                                   ,98122_5862,www.firstplaceschool.org,NULL,NULL,NULL
+51,Villa Academy,206.524.8885,5001 NE 50th St,98105_2899,www.thevilla.org,NULL,NULL,NULL
+52,St. Christopher Academy,206.246.9751,4100 SW Genesee St,98116_4282,www.stchristopheracademy.com,NULL,NULL,NULL
+53,Concordia Lutheran School,206.525.7407,7040 36th Ave NE,98115_5966,www.concordiaseattle.com,NULL,NULL,NULL
+54,Bertschi School,206.324.5476,2227 10th Ave E,98102_4177,www.bertschi.org,NULL,NULL,NULL
+55,Holy Rosary Elementary,206.937.7255,4142 42nd Ave SW,98116_4202,www.holyrosaryws.org,NULL,NULL,NULL
+56,North Seattle French School,206.218.2175,6615 Dayton Ave N,98103_5215,www.northseattlefrenchschool.com,NULL,NULL,NULL
+57,Puget Sound Community School,206.324.4350,660 S Dearborn St,98134_1328,www.pscs.org,NULL,NULL,NULL
+58,O'Dea High School,206.622.6596,802 Terry Ave,98104_1294,www.odea.org,NULL,NULL,NULL
+59,St. Catherine School,206.525.0582,8524 8th Ave NE,98115_3099,www.stcatherineschool.net,NULL,NULL,NULL
+60,Bishop Blanchet High School,206.527.7711,8200 Wallingford Ave N,98103_4599,www.bishopblanchet.org,NULL,NULL,NULL
+61,Northwest School,206.682.7309,1415 Summit Ave,98122_3619,www.northwestschool.org,NULL,NULL,NULL
+62,Christ the King School,206.364.6890,415 N 117th St,98133_8309,www.ckseattle.org,NULL,NULL,NULL
+63,Valley School,206.328.4475,309 31st Ave E,98112_4819,www.thevalleyschool.org,NULL,NULL,NULL
+64,Seattle Girls School,206.709.2228,2706 S Jackson St ,98144_2442,www.seattlegirlsschool.org,NULL,NULL,NULL
+65,Dartmoor School__Seattle,425.885.1123,9618 Roosevelt Way NE          ,98115_2236,www.dartmoor.org,NULL,NULL,NULL
+66,Hope Lutheran School,206.935.8500,4456 42nd Ave SW,98116_4223,www.hopeseattle.org,NULL,NULL,NULL
+67,Seattle Country Day School,206.284.6220,2619 4th Ave N,98109_1903,www.seattlecountryday.org,NULL,NULL,NULL
+68,St. George School,206.762.0656,5117 13th Ave S,98108_2309,www.saintgeorgeseattle.org,NULL,NULL,NULL
+69,Brightmont Academy_Seattle Campus,206.284.2300,9750 Third Ave NE  Ste 102   ,98115_2022,www.brightmontacademy.com ,NULL,NULL,NULL
+70,Torah Day School of Seattle,206.722.1200,1625 S Columbia Way,98108,www.tdsseattle.org,NULL,NULL,NULL
+71,University Child Development School,206.547.8237,5062 9th Ave NE,98105_3605,www.ucds.org,NULL,NULL,NULL
+72,Seattle Hebrew Academy,206.323.5750,1617 Interlaken Dr E,98112_3499,www.seattlehebrewacademy.org,NULL,NULL,NULL
+73,Seattle Amistad School,206.330.6373,2410 E Cherry,98122,seattleamistadschool.org,NULL,NULL,NULL
+74,Fairview Christian School                                              ,206.526.0762,844 NE 78th St,98115_4202,www.fcsseattle.org,NULL,NULL,NULL
+75,Holy Names Academy,206.323.4272,728 21st Ave E,98112_4058,www.holynames_sea.org,NULL,NULL,NULL
+76,University Cooperative School,206.524.0653,5601 University Ave NE,98105_2619,www.ucoopschool.org,NULL,NULL,NULL
+77,St. John School,206.783.0337,120 N 79th St,98103_4688,www.stjohnsea.org,NULL,NULL,NULL
+78,Our Lady of Fatima School,206.283.7031,3301 W Dravus St,98199_2624,www.olfatima.org,NULL,NULL,NULL
+79,St. Anne School,206.282.3538,101 W Lee St,98119_3321,www.stannesea.org,NULL,NULL,NULL
+80,Derech Emunah dba Seattle Jewish Girls High School,206.790.1475,650 S Orcas   Suite 200,98108,www.derechemunah.com,NULL,NULL,NULL
