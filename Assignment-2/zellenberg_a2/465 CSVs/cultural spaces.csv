@@ -1,0 +1,906 @@
+id,name,phone,sq_ft_total,address,location,dom_disc_id,sec_disc_id,third_disc_id,neighborhood_id,constituency_id
+1,Seattle Architecture Foundation,(206) 667-9184,1200,"1333 5th Ave # 300, Seattle, WA 98101","(47.6091917, -122.3345412)",0,0,0,0,0
+2,Artist Trust,(866) 218-7878,3500,"1835 12th Ave, Seattle, WA 98122","(47.6185686, -122.3172487)",0,0,0,0,0
+3,826 Seattle/ The Greater Seattle Bureau of Fearless Ideas,(206) 725-2625 ,4608,"8414 Greenwood Ave N, Seattle, WA 98103 ","(47.6902621, -122.3549016)",0,0,0,0,0
+4,American Dance Institute,(206) 783-0755,2800,"8001 Greenwood Ave N, Seattle, WA 98103","(47.6870482, -122.3554887)",0,0,0,0,0
+5,Art Institute of Seattle,(206) 448-6600,100167,"2323 Elliott Ave, Seattle, WA 98121","(47.6122895, -122.3491939)",0,0,0,0,0
+6,Burke Museum,(206) 543-5590,60000,"17 Ave NE and Northeast 45th St, Seattle, WA 98105","(47.6609225, -122.3151058)",0,0,0,0,0
+7,Choeizan Enkyoji Nichiren Buddhist Temple,(206) 356-7405,1200,"501 S Jackson St, Suite 202, Seattle, WA 98104","(47.5989593, -122.3271163)",0,0,0,0,0
+8,Coyote Central,(206) 323-7276,5000,"2300 E Cherry St, Seattle, WA 98122","(47.6081862, -122.3025461)",0,0,0,0,0
+9,Kind Hand Studio (CLOSED),(206) 618-1447,158,"4775 Ballard Ave NW, Seattle, WA 98107","(47.6642404, -122.3810653)",0,0,0,0,0
+10,Red Eagle Soaring Native Youth Theatre and Daybreak Star Cultural Center,(206) 829-2219,14000,"3801 W Government Way, Seattle, WA 98199","(47.6576318, -122.406330146408)",0,0,0,0,0
+11,School of Visual Concepts,(206) 623-1560,7000,"500 Aurora Ave N, Seattle, WA 98109","(47.6233866, -122.343268063725)",0,0,0,0,0
+12,Seattle Art Museum,(206) 654-3210,200000,"1300 1st Ave, Seattle, WA 98101","(47.6071955, -122.3382555)",0,0,0,0,0
+13,Seattle Asian Art Museum,(206) 654-3100,15000,"1400 E Prospect St, Seattle, WA 98112","(47.63028375, -122.314199826554)",0,0,0,0,0
+14,Seattle Center ArtsED WA in Seattle Center Pavillion,(206) 441-4501,,"158 Thomas St, Seattle, WA 98109","(47.621106, -122.353781749979)",0,0,0,0,0
+15,Seattle Center Cornish Playhouse,(206) 726-5113,35000,"201 Mercer St, Seattle, WA 98109","(47.6237608, -122.352406)",0,0,0,0,0
+16,Seattle Center Pottery Northwest,(206) 285-4421,10600,"226 1st Ave N Seattle, WA 98109","(47.6207729, -122.3551686)",0,0,0,0,0
+17,Seattle Glassblowing Studio,(206) 448-2181,9500,"2227 5th Ave, Seattle, WA 98121","(47.6155804, -122.3428879)",0,0,0,0,0
+18,Seattle Pinball Museum,(206) 623-0759,1980,"508 Maynard Ave S, Seattle, WA 98104","(47.5980081, -122.3248662)",0,0,0,0,0
+19,Central Cinema,(206) 328-3230,3500,"1411 21st Ave, Seattle, WA 98122","(47.6132215, -122.3051662)",0,0,0,0,0
+20,Cinerama,(206) 448-6680,14000,"2100 4th Ave, Seattle, WA 98121","(47.6141557, -122.3413991)",0,0,0,0,0
+21,Grand Illusion,(206) 523-3935,1000,"1403 NE 50th St. Seattle, WA 98105","(47.664752, -122.3127097)",0,0,0,0,0
+22,Majestic Bay,(206) 781-2229,8500,"2044 NW Market St Seattle, WA 98107","(47.6688574, -122.3841041)",0,0,0,0,0
+23,Nortthwest Film Forum,(206) 329-2629,8500,"1515 12th Ave, Seattle, WA 98122","(47.6144138, -122.317071)",0,0,0,0,0
+24,Seattle Center-SIFF Film Center and Cinema at the Uptown,(206) 464-5830,4600,"305 Harrison St, Seattle, WA 98109","(47.62056855, -122.35049095)",0,0,0,0,0
+25,The Big Picture,(206) 256-0566,4400,"2505 1st Ave, Seattle, WA 98121","(47.6146778, -122.3492477)",0,0,0,0,0
+26,Woodland Park Zoo and Stage,(206) 548-2500,4007000,"601 N 59th St, Seattle, WA 98103","(47.6684204, -122.350826003069)",0,0,0,0,0
+27,Center for Wooden Boats South Lake Union,(206) 382-2628,4000,"1010 Valley Street Seattle, WA 98109","(47.62648, -122.3357295)",0,0,0,0,0
+28,Center for Wooden Boats Wallingford,(206) 382-2628,6000,"1475 N Northlake Place, Seattle, WA 98103","(47.6463204338127, -122.338196689635)",0,0,0,0,0
+29,Log House Museum,(206) 938-5293,1500,"3003 61st Ave SW, Seattle, WA 98116","(47.5775947, -122.410949824811)",0,0,0,0,0
+30,Northwest African American Museum,(206) 518-6000,19700,"2300 S Massachusetts St, Seattle, WA 98144","(47.5891416, -122.301890691184)",0,0,0,0,0
+31,South Seattle Community College Chinese Gardens,(206) 934-5219,200376,"6000 16th Ave SW, Seattle, WA 98106","(47.5510384, -122.35186429201)",0,0,0,0,0
+32,Elliott Bay Book Company,(206) 624-6600,15000,"1521 10th Ave, Seattle, WA 98122","(47.6146657, -122.3196776)",0,0,0,0,0
+33,Hugo House,(206) 322-7030,11000,"1634 11th Ave, Seattle, WA 98122","(47.6162473, -122.3178798)",0,0,0,0,0
+34,Kinokuniya Book Store,(206) 587-2477,8020,"525 South Weller St. Seattle, WA 98144","(47.5975101, -122.3116039)",0,0,0,0,0
+35,Magus Books,(206) 633-1800,2800,"1408 NE 42nd St, Seattle, WA 98105","(47.6584363, -122.312882)",0,0,0,0,0
+36,Ophelia''s Books,(206) 632-3759,1500,"3504 Fremont Ave N, Seattle, WA 98103","(47.6506373, -122.3496713)",0,0,0,0,0
+37,Seattle Public Library Ballard,(206) 684-4089,15000,"5614 22nd Ave NW, Seattle, WA 98107","(47.6698215, -122.384317177678)",0,0,0,0,0
+38,Seattle Public Library Beacon Hill,(206) 684-4711,10400,"2821 Beacon Ave S,. Seattle, WA 98144","(47.5779867, -122.311409476581)",0,0,0,0,0
+39,Seattle Public Library Broadview,(206) 684-7519,15000,"12755 Greenwood Ave N, Seattle, WA 98133","(47.7230197, -122.3562457)",0,0,0,0,0
+40,Seattle Public Library Capitol Hill,(206) 684-4715,11215,"425 Harvard Ave E, Seattle, WA 98102","(47.6229428, -122.322331747171)",0,0,0,0,0
+41,Seattle Public Library Columbia,(206) 386-1908,12420,"4721 Rainier Ave S, Seattle, WA 98118","(47.55990535, -122.28696008085)",0,0,0,0,0
+42,Seattle Public Library Delridge,(206) 733-9125,5600,"5423 Delridge Way SW, Seattle, WA 98106","(47.5530455, -122.3632976)",0,0,0,0,0
+43,Seattle Public Library Douglas-Truth,(206) 684-4704,16493,"2300 E Yesler Way, Seattle, WA 98122","(47.601907, -122.3017753)",0,0,0,0,0
+44,Seattle Public Library Fremont,(206) 684-4084,6840,"731 N. 35th St. Seattle, WA 98103","(47.6500311, -122.3484385)",0,0,0,0,0
+45,Seattle Public Library Green Lake,(206) 684-7547,8090,"7364 E. Green Lake Dr. N. Seattle, WA 98115","(47.6814905, -122.3267044)",0,0,0,0,0
+46,Seattle Public Library Greenwood,(206) 684-4086,15000,"8016 Greenwood Ave N, Seattle, WA 98103","(47.6871410408163, -122.355179163265)",0,0,0,0,0
+47,Seattle Public Library High Point,(206) 684-7454,7200,"3411 S.W. Raymond St, Seattle, WA 98126","(47.54807515, -122.375847136139)",0,0,0,0,0
+48,Seattle Public Library International Districtrict/Chinatown,(206) 386-4636,3930,"1000 4th Ave, Seattle, WA 98104","(47.6040236, -122.3309956)",0,0,0,0,0
+49,Seattle Public Library Lake City,(206) 684-7518,15300,"12501 28th Ave N.E. Seattle, WA 98125","(47.7197965, -122.2980932)",0,0,0,0,0
+50,Seattle Public Library Madrona,(206) 684-4705,1707,"1134 33rd Ave Seattle, WA 98122","(47.61269145, -122.290013149955)",0,0,0,0,0
+51,Seattle Public Library Magnolia,(206) 386-4225,7799,"2801 34th Ave W, Seattle, WA 98199","(47.64532095, -122.401359887125)",0,0,0,0,0
+52,Seattle Public Library Main,(206) 386-4636,363000,"1000 4th Ave, Seattle, WA 98104","(47.6040236, -122.3309956)",0,0,0,0,0
+53,Seattle Public Library Montlake,(206) 684-4720,5652,"2401 24th Ave E, Seattle, WA 98112","(47.6404243, -122.3023631)",0,0,0,0,0
+54,Seattle Public Library New Holly,(206) 760-3296,4000,"3815 S Othello St #103, Seattle, WA 98118","(47.53683545, -122.284043789402)",0,0,0,0,0
+55,Seattle Public Library Northeast,(206) 684-7539,15000,"6801 35th Ave NE, Seattle, WA 98115","(47.6778643, -122.2907142)",0,0,0,0,0
+56,Seattle Public Library Northgate,(206) 386-1980,10000,"10548 5th Ave NE Seattle, WA 98125","(47.7059559, -122.32283839898)",0,0,0,0,0
+57,Seattle Public Library Queen Anne,(206) 386-4227,7931,"400 W. Garfield St. Seattle, WA 98119","(47.6338273, -122.3627291)",0,0,0,0,0
+58,Seattle Public Library Rainier Beach,(206) 386-1906,15000,"9125 Rainier Ave S, Seattle, WA 98118","(47.52135525, -122.270502258436)",0,0,0,0,0
+59,Seattle Public Library South Park,(206) 615-1688,5019,"8604 8th Ave S Seattle, WA 98108","(47.5262606, -122.32257933262)",0,0,0,0,0
+60,Seattle Public Library Southwest,(206) 684-7455,15000,"9010 35th Ave S.W. Seattle, WA 98126","(47.522442, -122.3762926)",0,0,0,0,0
+61,Seattle Public Library University,(206) 684-4063,8140,"5009 Roosevelt Way NE Seattle, WA 98105","(47.665541, -122.3178615)",0,0,0,0,0
+62,Seattle Public Library Wallingford,(206) 684-4088,2000,"1501 N. 45th St. Seattle, WA 98103","(47.6611645700687, -122.338884913967)",0,0,0,0,0
+63,Seattle Public Library West Seattle,(206) 684-7444,9460,"2306 42nd Ave SW Seattle, WA 98116","(47.5826992, -122.384704588465)",0,0,0,0,0
+64,Spring Street Center (Subud Pacific Northwest),(206) 422-5002,1700,"1101 15th Ave, Seattle, WA 98122","(47.6117204, -122.313065805667)",0,0,0,0,0
+65,Artspace Hiawatha Lofts,(206) 709-7611,88843,"843 Hiawatha Pl S, Seattle, WA 98144","(47.5951899, -122.3099181)",0,0,0,0,0
+66,Impact Hub Seattle,(206) 430-6007,20000,"220 2nd Ave S, Seattle, WA 98104","(47.6007271, -122.3313269)",0,0,0,0,0
+67,Works Progress,(206) 466-1624,1200,"115 N 85th St #202, Seattle, WA 98103","(47.6903817, -122.3573889)",0,0,0,0,0
+68,The Project Room,(206) 499-9641,750,"1315 E Pine St Seattle, WA 98122","(47.6151596, -122.3147172)",0,0,0,0,0
+69,ArtFX Studio Gallery,,,"420 N. 35th St. Seattle, WA 98103","(47.6513614, -122.3534984)",0,0,0,0,0
+70,ActivSpace North Seattle,(206) 529-1488,50000,"10015 Lake City Way NE, Seattle, WA 98125","(47.7018484, -122.3023713)",0,0,0,0,0
+71,Alki Bathhouse Studio,(206) 684-7430,1550,"1702 Alki Ave S.W. Seattle, WA 98116","(47.588343, -122.395329)",0,0,0,0,0
+72,Annex Theatre,(206) 728-0933,3750,"1100 E Pike St, Seattle, WA 98122","(47.6140917, -122.3191769)",0,0,0,0,0
+73,Arts West,(206) 938-0339,12680,"4711 California Ave SW, Seattle, WA 98116","(47.5607163, -122.3871398)",0,0,0,0,0
+74,Artspace Tashiro Kaplan Lofts and the Angle & Corridor Gallery,(206) 223-1160,130000,"115 Prefontaine Place S, Seattle, WA 98104","(47.6012805, -122.3297091)",0,0,0,0,0
+75,Belle and Wissell/Oxbow,(206) 322-7908,11250,"6014 12th Ave S, Seattle, WA 98108","(47.5487509, -122.3170704)",0,0,0,0,0
+76,Danse Perdue's Psychomachia Theater,(206) 383-4105,2000,"1534 1st Ave S, Seattle, WA 98134","(47.5719192, -122.3342902)",0,0,0,0,0
+77,Design Commission Gallery,(206) 223-7709 ,3200,"310 South Washington St, Seattle, WA 98104","(47.6010176, -122.3297496)",0,0,0,0,0
+78,El Centro de la Raza,(206) 329-9442,54548,"2524 16th Ave S, Seattle, WA 98144","(47.5803398, -122.311297826237)",0,0,0,0,0
+79,FRED Wildlife Refuge,(206) 588-6959,5200,"127 Boylston Ave E, Seattle, WA 98102","(47.6219768, -122.3230383)",0,0,0,0,0
+80,Frye Art Museum,(206) 622-9250,42000,"704 Terry Ave Seattle, WA 98104","(47.60718365, -122.324044271516)",0,0,0,0,0
+81,Hard Rock Café,(206) 204-2233,14000,"116 Pike St, Seattle, WA 98101","(47.6093109, -122.3394956)",0,0,0,0,0
+82,Interbay Worklofts,(206) 286-3550,2000,"3131 Western Ave #419, Seattle, WA 98121","(47.6182617, -122.3577413)",0,0,0,0,0
+83,Jack Straw,(206) 634-0919,11000,"4261 Roosevelt Way NE Seattle, WA 98105","(47.6593157, -122.3179173)",0,0,0,0,0
+84,Metrix Create Space,(206) 357-9406,2000,"623 Broadway E, Seattle, WA 98102","(47.624979, -122.3211541)",0,0,0,0,0
+85,Mini Mart City Park,,435,"6525 Ellis Ave S, Seattle, WA 98108","(47.54413735, -122.31911307466)",0,0,0,0,0
+86,Nordic Museum,(206) 789-5707,45000,"3014 NW 67th St Seattle, WA 98117","(47.6776991, -122.3963587)",0,0,0,0,0
+87,Of the Earth,(206) 462-7022,4000,"7706 Aurora Ave N Seattle, WA 98103","(47.6850306, -122.344258)",0,0,0,0,0
+88,Rainier Chapter House DAR,(206) 323-0600,9225,"800 East Roy St, Seattle, WA 98102","(47.62532335, -122.322040623416)",0,0,0,0,0
+89,Seattle Center EMP and Sky Church,(206) 770-2700,140000,"325 5th Ave N, Seattle, WA 98109","(47.62149775, -122.348238654184)",0,0,0,0,0
+90,Seattle Center Mural Ampitheater,(206) 684-7200,58000,"305 Harrison St Seattle, WA 98109","(47.62056855, -122.35049095)",0,0,0,0,0
+91,Seattle Center Pacific Science Center,(206) 443-2001,177750,"200 2nd Ave N, Seattle, WA 98109","(47.61941385, -122.350808468208)",0,0,0,0,0
+92,Seattle Center Pavilion,(206) 684-7200,5300,"305 Harrison St Seattle, WA 98109","(47.62056855, -122.35049095)",0,0,0,0,0
+93,Art On The Ridge,,,"8005 Greenwood Ave N, Seattle, WA 98103
+","(47.6871653, -122.3554887)",0,0,0,0,0
+94,Seattle Center Seattle Children's Museum,(206) 441-1768,32000,"Seattle Center, 305 Harrison St, Seattle, WA 98109","(47.6212523, -122.3509484)",0,0,0,0,0
+95,St. Paul's Episcopal Church,(206) 282-0786,1100,"15 Roy St, Seattle, WA 98109","(47.6252101, -122.3559613)",0,0,0,0,0
+96,Storefronts Seattle/Shunpike,(206) 905-1026,26600,"2324 1st Ave # 112, Seattle, WA 98121","(47.6139909, -122.3472372)",0,0,0,0,0
+97,University of Washington Samuel E. Kelly Ethnic Cultural Center,(206) 543-4635,25000,"3931 Brooklyn Ave NE, Seattle, WA 98105","(47.6549243298969, -122.314576412371)",0,0,0,0,0
+98,WA State Holocaust Ed Center,(206) 774-2201,6000,"2031 3rd Ave, Seattle, WA 98121","(47.6128253, -122.3422256)",0,0,0,0,0
+99,Washington Hall,(206) 316-7613,7000,153 14th Ave Seattle WA 98122,"(47.60284, -122.314587396867)",0,0,0,0,0
+100,West of Lenin,(206) 352-1777,3400,"203 N 36th St, Seattle, WA 98103","(47.6524012, -122.3563132)",0,0,0,0,0
+101,Youngstown Cultural Arts Center,(206) 935-2999,18035,"4408 Delridge Way SW, Seattle, WA 98106","(47.56357765, -122.36303040367)",0,0,0,0,0
+102,Century Ballroom,(206) 324-7263,11300,"915 E Pine St, Seattle, WA 98122","(47.6151265, -122.3198707)",0,0,0,0,0
+103,Town Hall,(206) 652-4255,37000,"1119 8th Ave, Seattle, WA 98101","(47.6090096, -122.3299408)",0,0,0,0,0
+104,The Josephine and Friends of NW 65th (CLOSED),(206) 543-0065,,"608 NW 65th St Seattle, WA 98117","(47.6762165, -122.3638347)",0,0,0,0,0
+105,Avast Recording Co,(206) 633-3926,7500,"601 NW 80th St, Seattle, WA 98117","(47.6867128, -122.3636508)",0,0,0,0,0
+106,Columbia City Theater,(206) 722-3009,1820,"4916 Rainier Ave S, Seattle, WA 98118","(47.5573208, -122.2844836)",0,0,0,0,0
+107,Crybaby Studios,(206) 660-0117,14000,"11th Ave, Seattle, WA 98122","(47.6129328, -122.3181106)",0,0,0,0,0
+108,Egg Studios/Popllama Products,,750,,,0,0,0,0,0
+109,El Corazon,(206) 262-0482,8000,"109 Eastlake Ave E Seattle, WA 98109","(47.618798, -122.3293302)",0,0,0,0,0
+110,Flying House Productions,(206) 323-0750,4000,"319 12th Ave, Seattle, WA 98122","(47.60502955, -122.317157300784)",0,0,0,0,0
+111,Georgetown Records and Fantagraphics Books,(206) 762-5638,1200,"1201 S Vale St, Seattle, WA 98108","(47.5490859, -122.3169537)",0,0,0,0,0
+112,Gravelvoice,,1000,,,0,0,0,0,0
+113,Haller Lake United Methodist Church,(206) 362-5383,1200,"13055 1st Ave NE Seattle, WA 98125","(47.72465145, -122.329384310191)",0,0,0,0,0
+114,Hollow Earth Radio,(206) 588-5437,1000,"2018 A E. Union St, Seattle, WA 98122","(47.6129184, -122.316028)",0,0,0,0,0
+115,Jazz Night School,(206) 722-6061,2000,"3916 S Morgan St, Seattle, WA 98118","(47.5440673, -122.282435599947)",0,0,0,0,0
+116,KXSU Radio,(206) 296-6000,500,"901 12th Ave Seattle, WA 98122","(47.6106553, -122.3171103)",0,0,0,0,0
+117,Music Center of Northwest,(206) 526-8443,7500,"901 N 96th St, Seattle, WA 98103","(47.6983998, -122.3470479)",0,0,0,0,0
+118,Nectar,(206) 632-2020,9999,"412 N 36th St, Seattle, WA 98103","(47.652355, -122.3538429)",0,0,0,0,0
+119,Neumos/Barboza,(206) 709-9442,12500,"925 E Pike St, Seattle, WA 98122","(47.613959, -122.319574)",0,0,0,0,0
+120,Orbit Audio,(206) 381-1244,2200,"219 1st Ave S, Seattle, WA 98104","(47.6002492, -122.3346249)",0,0,0,0,0
+121,Rockit Community Arts and Garden House,(206) 323-7733,200,"2336 15th Ave S. Seattle, WA 98144","(47.58176075, -122.313094422701)",0,0,0,0,0
+122,Royal Room,(206) 906-9920,3200,"5000 Rainier Ave S. Seattle, WA 98118","(47.556924, -122.2843057)",0,0,0,0,0
+123,Sea Monster Lounge,(206) 992-1120,1250,"2202 N 45th St, Seattle, WA 98103","(47.6614929, -122.3322973)",0,0,0,0,0
+124,Benaroya Hall,(206) 215-4800,362250,"200 University St, Seattle, WA 98101","(47.60812795, -122.33697482797)",0,0,0,0,0
+125,Sonic Boom,(206) 297-2666,2200,"2209 NW Market St, Seattle, WA 98107","(47.6685224, -122.3851065)",0,0,0,0,0
+126,Sunset Tavern,(206) 784-4880,2000,"5433 Ballard Ave NW, Seattle, WA 98107","(47.6682756, -122.3860837)",0,0,0,0,0
+127,The Chapel Performance Space at Good Shepherd Center,(206) 547-8127,3600,"4649 Sunnyside Ave N, 4th floor, Seattle, WA 98103","(47.6640977, -122.3310449)",0,0,0,0,0
+128,Tim's Tavern,(206) 789-9005,1100,"602 N 105th St, Seattle, WA 98133","(47.705199, -122.3509853)",0,0,0,0,0
+129,Tractor Tavern,(206) 789-3599,4000,"5213 Ballard Ave NW, Seattle, WA 98107","(47.6657095, -122.382800277111)",0,0,0,0,0
+130,Triple Door Theater and Musicquarium Lounge,(206) 838-4333,18656,"216 Union St, Seattle, WA 98101","(47.6086439, -122.337685)",0,0,0,0,0
+131,5th Avenue Theatre,(206) 625-1900,44154,"1308 5th Ave, Seattle, WA 98101","(47.6091749, -122.3339671)",0,0,0,0,0
+132,A Contemporary Theatre (ACT),(206) 292-7660,21360,"700 Union St, Seattle, WA 98101","(47.6108495, -122.3323316)",0,0,0,0,0
+133,ARC Dance,(206) 352-0798,9000,"9250 14th Ave NW Seattle, WA 98117","(47.6973909, -122.3736435)",0,0,0,0,0
+134,Caravan Gallery-Parlor and Roadside Attractions,(206) 799-1180,260,,,0,0,0,0,0
+135,Columbia City Gallery SEEDArts,(206) 760-9843,3518,"4864 Rainier Ave S, Seattle, WA 98118","(47.558197, -122.2850094)",0,0,0,0,0
+136,Crocodile,(206) 441-4618,6400,"2200 2nd Ave, Seattle, WA 98121","(47.6135576, -122.3442489)",0,0,0,0,0
+137,Duwamish Longhouse,(206) 431-1582,6044,"4705 W Marginal Way SW, Seattle, WA 98106","(47.56093545, -122.352000954028)",0,0,0,0,0
+138,Empty Sea Studios,(206) 329-9442,1400,"2524 16th Ave S, Seattle, WA 98144","(47.5803398, -122.311297826237)",0,0,0,0,0
+139,Erickson Theater ,(206) 427-5207,7500,"1524 Harvard Ave Seattle, WA 98122","(47.6148138, -122.3217378)",0,0,0,0,0
+140,Freehold Theatre and Lab Studio,(206) 323-7499,4800,"2222 2nd Ave, Suite 200, Seattle, WA 98121","(47.6138182, -122.3448891)",0,0,0,0,0
+141,Fremont Abbey Arts Center,(206) 414-8325,8500,"4272 Fremont Ave N, Seattle, WA 98103","(47.6591931, -122.3498604)",0,0,0,0,0
+142,Full Tilt Ballard,(206) 297-3000,1300,"5453 Leary Ave NW Seattle, WA 98107","(47.6679185, -122.3838941)",0,0,0,0,0
+143,Full Tilt Columbia City,(206) 226-2740,1100,"5041 Rainier Ave S, Seattle, WA 98118","(47.5559849, -122.2840929)",0,0,0,0,0
+144,Geisa Dutra Piano Studio,(206) 295-6590,1700," 8735 Palatine Ave N Seattle, WA 98103","(47.6934167, -122.356943891716)",0,0,0,0,0
+145,Ghost Light Theatricals/The Ballard Underground,(206) 395-5458,2682,"2220 NW Market Street Lower Level Seattle, WA 98107","(47.6691001, -122.38579091982)",0,0,0,0,0
+146,Kenyon Hall,(206) 937-3613,1200,"7904 35th Ave SW, Seattle, WA 98126","(47.5316617, -122.376176816605)",0,0,0,0,0
+147,L.A.B at Seattle Drum School of Music,(206)364-8815,8300,"12510 15th Ave NE Seattle, WA 98125","(47.7196359, -122.31255765)",0,0,0,0,0
+148,Lee Center for the Arts,(206) 296-5373,10000,"901 12th Ave Seattle, WA 98122","(47.6106553, -122.3171103)",0,0,0,0,0
+149,New City Theater,(206) 271-4430,1950,"1404 18th Ave, Seattle, WA 98122","(47.6131012, -122.3086934)",0,0,0,0,0
+150,Northwest Puppet Center/ Carter Family Marionettes Fremont,(206) 523-2579,8000,,,0,0,0,0,0
+151,On the Boards,(206) 217-9886,27500,"100 W Roy St, Seattle, WA 98119","(47.6259637, -122.3582053)",0,0,0,0,0
+152,Open Flight Studio,(206) 632-0067,1000,"4205 University Way NE Seattle, WA 98105","(47.6585538, -122.3133686)",0,0,0,0,0
+153,Rendezvous & Jewel Box Theater,(206) 441-5823,2800,"2322 2nd Ave, Seattle, WA 98121","(47.614714, -122.3462234)",0,0,0,0,0
+154,Sand Point Arts & Cultural Exchange,(206) 245-5457,37125,"7400 Sand Point Way NE, Suite 203 S. Seattle, WA 98115","(47.68213235, -122.263298237822)",0,0,0,0,0
+155,Satori Lab in Inscape,(513) 600-0815,,"815 Seattle Blvd S, Seattle, WA 98134","(47.59511695, -122.327085857065)",0,0,0,0,0
+156,School of Acrobatics & New Circus Arts (SANCA),(206) 652-4433,27000,"674 S Orcas St, Seattle, WA 98108","(47.5518058, -122.3246163)",0,0,0,0,0
+157,Seattle Center Key Arena ,(206) 684-7200,130000,"305 Harrison Street Seattle, WA 98109","(47.622150, -122.355423)",0,0,0,0,0
+158,Seattle Center McCaw Hall,(206) 733-9725,40000,"321 Mercer St, Seattle, WA 98109","(47.6239543, -122.3507651)",0,0,0,0,0
+159,Seattle Center Seattle Children's Theatre,(206) 441-3322,65000,"201 Thomas St, Seattle, WA 98109","(47.6204434, -122.3525072)",0,0,0,0,0
+160,Seattle Center Seattle Repertory Theatre at Leo K,(206) 443-2222,65000,"155 Mercer St, Seattle, WA 98109","(47.62384645, -122.353596324739)",0,0,0,0,0
+161,Seattle Center SIS Productions/ReAct & Pork Filled Players at Prima Vera Arts Center,(206) 323-9443,3023,"112 5th Ave N Seattle, WA 98109","(47.6190574, -122.3473634)",0,0,0,0,0
+162,Seattle Center Vera Project,(206) 956-8372,128877,"305 Harrison St Seattle, WA 98109","(47.62056855, -122.35049095)",0,0,0,0,0
+163,Seattle Center/Center House Theatre,(206) 684-7200,22086,"305 Harrison St Seattle, WA 98109","(47.62056855, -122.35049095)",0,0,0,0,0
+164,Seattle Central Community College Broadway Performance Hall,(206) 325-3113,20000,"1625 Broadway, Seattle, WA 98122","(47.6157581, -122.321786)",0,0,0,0,0
+165,Seattle Conservatory of Music,(206) 632-6715,1000,"4038 Stone Way N. Seattle, WA 98103","(47.656517, -122.342033)",0,0,0,0,0
+166,Seattle Public Theater,(206) 524-1300,2400,"7312 Green Lake Trail, Seattle, WA 98103","(47.682538, -122.340830)",0,0,0,0,0
+167,Showbox SODO,(206) 628-3151,22000,"1700 1st Ave South Seattle, WA 98134","(47.5878916, -122.3339403)",0,0,0,0,0
+168,Skylark Café & Club,(206) 935-2111,2200,"3803 Delridge Way SW, Seattle, WA 98106","(47.5700038, -122.3625235)",0,0,0,0,0
+169,Spectrum Dance Theater,(206) 325-4161,4000,"800 Lake Washington Blvd, Seattle, WA 98122","(47.6101337, -122.282570642167)",0,0,0,0,0
+170,St Rigsby and His Amazing Silhouettes,,46,,,0,0,0,0,0
+171,STG Moore Theatre,(206) 467-5510,30080,"1932 2nd Ave, Seattle, WA 98101","(47.6113032040816, -122.340846020408)",0,0,0,0,0
+172,STG Neptune Theatre,(206) 682-1414,16854,"1303 NE 45th St, Seattle, WA 98105","(47.6609714, -122.3138972)",0,0,0,0,0
+173,STG Paramount Theatre,(206) 902-5500,112297,"911 Pine St, Seattle, WA 98101","(47.6132437, -122.331356006126)",0,0,0,0,0
+174,Stone Soup Theatre/DownStage Theatre,(206) 388-9212,980,"4029 Stone Way N, Seattle, WA 98103","(47.6561433, -122.3426065)",0,0,0,0,0
+175,Taproot Theatre,(206) 781-9707,22000,"204 N 85th St, Seattle, WA 98103","(47.6908412, -122.356251325)",0,0,0,0,0
+176,Teatro ZinZanni,(206) 802-0015,28000,"222 Mercer St, Seattle, WA 98109","(47.6249259, -122.3518443)",0,0,0,0,0
+177,The Market Theater,(206) 587-2414,4000,"1428 Post Alley, Seattle, WA 98101","(47.6098589, -122.3417416)",0,0,0,0,0
+178,Theater Schmeater,(206) 324-5801,3000,"1500 Summit Ave, Seattle, WA 98122","(47.614211, -122.325396)",0,0,0,0,0
+179,Theatre Off Jackson,(206) 340-1049,16000,"409 7th Ave S, Seattle, WA 98104","(47.5988665, -122.3239595)",0,0,0,0,0
+180,Trinity Parish Church,(206) 332-7908,2000,"609 8th Ave Seattle, WA 98104","(47.6052251, -122.3262281)",0,0,0,0,0
+181,Tula's,(206) 443-4221,3000,"2214 2nd Ave, Seattle, WA 98121","(47.6136108, -122.3444191)",0,0,0,0,0
+182,Unified Outreach Youth Arts,(206) 371-1139,4480,"4401 42nd Ave SW Seattle, WA 98116","(47.56452925, -122.38586924398)",0,0,0,0,0
+183,University of Washington Glenn Hughes Penthouse Theatre,(206) 543-5140,3000,"17th Avenue NE and NE 45th St Seattle, WA 98145","(47.658765, -122.31789285)",0,0,0,0,0
+184,University of Washington Hutchison Hall,(206) 543-5140,52000,"NE Pacific St, Seattle, WA 98195","(47.6536581, -122.3168679)",0,0,0,0,0
+185,University of Washington Jones Playhouse,(206)543-4880,8000,"4045 University Way NE Seattle, WA 98105","(47.6566657, -122.3135544)",0,0,0,0,0
+186,Vachon Gallery,(206) 296-2340,2000,"1000 E. Madison St Seattle, WA 98122","(47.61205715, -122.319148077671)",0,0,0,0,0
+187,Velocity Dance Center,(206) 325-8773,5000,"1621 12th Ave, Seattle, WA 98122","(47.6156632, -122.3171739)",0,0,0,0,0
+188,Volunteer Park Ampitheater,(206) 684-4080,400,"1247 15th Ave E, Seattle, WA 98112","(47.6320524, -122.3127683)",0,0,0,0,0
+189,Washington Ensemble Theatre,(206) 325-5105,800,"608 19th Ave E, Seattle, WA 98112","(47.6247086, -122.307185)",0,0,0,0,0
+190,Northwest Puppet Center/ Carter Family Marionettes Maple Leaf,(206) 523-2579,4000,9123 15th Ave NE Seattle WA 98115,"(47.69556835, -122.312468681441)",0,0,0,0,0
+191,4Culture in Tashiro Kaplan,(206) 296-7580,,"101 Prefontaine Pl S Seattle, WA 98104","(47.6014352, -122.3300625)",0,0,0,0,0
+192,ALTspace,(206) 424-7863,2500,"2318 E Cherry St Seattle, WA 98122","(47.6081565, -122.3018854)",0,0,0,0,0
+193,AudioLogic,(206) 817-8760,1450,"12047 31st Ave NE, Seattle, WA 98125","(47.7170286, -122.2955694)",0,0,0,0,0
+194,Avalon Glassworks,(206) 937-6369,1300,"2914 SW Avalon Way, Seattle, WA 98126","(47.5707566, -122.3710219)",0,0,0,0,0
+195,Inscape Building,(206) 458-2716,77000,"815 Seattle Blvd S, Seattle, WA 98134","(47.59511695, -122.327085857065)",0,0,0,0,0
+196,Tryptos Studio Collective,(206) 783-6997,1600,"5227 Leary Ave NW  Seattle, WA 98107","(47.6661353, -122.381867447952)",0,0,0,0,0
+197,57 Biscayne,,5712,"110 Cherry St #200, Seattle, WA 98104","(47.6028497, -122.3338684)",0,0,0,0,0
+198,A/NT Gallery,(206) 233-0680,3280,"2045 Westlake Ave, Seattle, WA 98121","(47.6158592, -122.338453)",0,0,0,0,0
+199,Alki Arts,(206) 432-9936,6000,"55 University Seattle, WA 98101","(47.6060923, -122.3395432)",0,0,0,0,0
+200,Art Xchange Gallery,(206) 839-0377,2000,"512 1st Ave S, Seattle, WA 98104","(47.5979017, -122.3339034)",0,0,0,0,0
+201,Avanti Art and Design/Avanti Co-Op Gallery,(206) 784-8475,1500,"7601 Greenwood Ave N #101, Seattle, WA 98103","(47.6841406, -122.3555094)",0,0,0,0,0
+202,Bherd Studios,(206) 234-8348,1000,312 N. 85th St. Suite 101 Seattle WA 98103,"(47.69077345, -122.354979091697)",0,0,0,0,0
+203,C Art Gallery in Artspace Hiawatha Lofts,(206) 322-9374,,"855 Hiawatha Pl S, Seattle, WA 98144","(47.594554, -122.3095312)",0,0,0,0,0
+204,Canlis Glass,(206) 282-4428,3500,"3131 Western Ave #329, Seattle, WA 98121","(47.6182617, -122.3577413)",0,0,0,0,0
+205,CoCA,(206) 728-1980,4600,"5701 6th Ave S #258, Seattle, WA 98108","(47.5514664, -122.3283134)",0,0,0,0,0
+206,Contactcreate,(206) 280-1230,1200,"928 13th Ave, Seattle, WA 98122","(47.611258, -122.315128000189)",0,0,0,0,0
+207,Danaca Design,(206) 524-0916,1100,"5619 University Way NE, Seattle, WA 98105","(47.6701069, -122.313258)",0,0,0,0,0
+208,Echo Echo Gallery,(206) 633-1236,3000,"8537 Greenwood Ave N Seattle, WA 98103","(47.6916342, -122.3557113)",0,0,0,0,0
+209,Edd Cox Fine Art,(206) 682-4046,4500,"313 1st Ave S, Seattle, WA 98104","(47.5995772, -122.3345636)",0,0,0,0,0
+210,Form/Space Atelier,(206) 349-2509,333,"2407 1st Ave, Seattle, WA 98121","(47.6142042, -122.348419)",0,0,0,0,0
+211,Foster/White Gallery,(206) 622-2833,10000,"220 3rd Ave S, Seattle, WA 98104","(47.6002759, -122.3299406)",0,0,0,0,0
+212,Fountainhead Gallery,(206) 285-4467,2100,"625 W McGraw St, Seattle, WA 98119","(47.6394417, -122.3660888)",0,0,0,0,0
+213,Frame Central/North West Framing Cloud Gallery,(206) 720-2054,700,"901 E Pike St Seattle, WA 98122","(47.613902, -122.3203375)",0,0,0,0,0
+214,Gage Academy of Art,(206) 323-4243,18000,"1501 10th Ave East, #101 Seattle, WA 98102","(47.6325497, -122.320689412583)",0,0,0,0,0
+215,Gallery 110 in Tashiro Kaplan,(206) 624-9336,,"110 3rd Ave S, Seattle, WA 98104","(47.6012598, -122.330003)",0,0,0,0,0
+216,Gallery Context,(206) 553-9437,3000,"5701 Sixth Ave South Seattle, WA 98108","(47.5514664, -122.3283134)",0,0,0,0,0
+217,Gallery IMA,(206) 625-0055,3658,"123 S Jackson St, Seattle, WA 98104","(47.5989643, -122.3331035)",0,0,0,0,0
+218,Georgetown Trailer Park Mall,(206) 767-0331,3000,"5805 Airport Way S, Seattle, WA 98108","(47.5505915102041, -122.318393510204)",0,0,0,0,0
+219,Ghost Gallery,(206) 832-6063,900,"504 E Denny Way Seattle, WA 98122","(47.6186813, -122.324925092219)",0,0,0,0,0
+220,Grover Thurston Gallery,(206) 223-0816,1500,"319 3rd Ave S, Seattle, WA 98104","(47.5994156, -122.3305147)",0,0,0,0,0
+221,Kate Alkarni Gallery,(206) 453-0043,1500,"5701 6th Ave S, Atrium Suite 221 Seattle, WA 98108","(47.5514664, -122.3283134)",0,0,0,0,0
+222,Kinsey Gallery,(206) 296-2340,150,"824 12th Ave Seattle, WA 98122","(47.6100596, -122.3163837)",0,0,0,0,0
+223,Krab Jab Studio,(206) 715-8593,946,"5628 Airport Way South, Ste 246 Seattle, WA  98108","(47.5515231, -122.3186879)",0,0,0,0,0
+224,L x W x H,(206) 697-5156,404,"6007 12th Ave S, Seattle, WA 98108","(47.5488654, -122.3174654)",0,0,0,0,0
+225,Lisa Harris Gallery,(206) 443-3315,1100,"1922 Pike Pl, Seattle, WA 98101","(47.6083293, -122.3408128)",0,0,0,0,0
+226,MIA Gallery,(206) 467-4927,682,"1203 2nd Ave, Seattle, WA 98101","(47.6066246, -122.3369157)",0,0,0,0,0
+227,Miller School of Art,(206) 861-9265,1738,"1226 S Bailey St, Seattle, WA 98108","(47.5480284, -122.3164558)",0,0,0,0,0
+228,Municipal Tower Gallery,(206) 684-7171,625,"700 Fifth Ave, 3rd Level Seattle, WA 98104","(47.60501625, -122.32957289044)",0,0,0,0,0
+229,New Foundation,(206) 512-7247,1800,"312 2nd Ave South Seattle, WA","(47.599537, -122.331177)",0,0,0,0,0
+230,Northwest Woodworkers Gallery,(206) 625-0542,4000,"2111 1st Ave, Seattle, WA 98121","(47.6119449, -122.344463)",0,0,0,0,0
+231,Photographic Center Northwest,(206) 720-7222,10440,"900 12th Ave, Seattle, WA 98122","(47.61056225, -122.3163719)",0,0,0,0,0
+232,Platform Gallery in Tashiro Kaplan,(206) 323-2808,,"114 3rd Ave S, Seattle, WA 98104","(47.601161, -122.3300592)",0,0,0,0,0
+233,Pound Arts,(206) 323-0557,5000,"1216 10th Ave Seattle, WA 98122","(47.6127484, -122.3192097)",0,0,0,0,0
+234,Pratt Fine Arts Center,(206) 328-2200,17021,"1902 S Main St Seattle, WA 98144","(47.6002536, -122.2949954)",0,0,0,0,0
+235,Push/Pull,,350,,,0,0,0,0,0
+236,Q,(206) 352-2525,2500,"3223 15th Ave W, Seattle, WA 98119","(47.64922085, -122.377090399864)",0,0,0,0,0
+237,RE Welch Gallery,(206) 264-8141,2000,"1214 1st Ave, Seattle, WA 98101","(47.6065659, -122.3374584)",0,0,0,0,0
+238,Reel Grrls,(206) 323-0693,3000,"1409 21st Ave, Seattle, WA 98122","(47.6131504, -122.3051798)",0,0,0,0,0
+239,RxsRKives Studio,,2400,,,0,0,0,0,0
+240,Seattle ArtREsource (CLOSED),(206) 838-2695,2500,"625 1st Ave #200, Seattle, WA 98104","(47.6024431, -122.3344096)",0,0,0,0,0
+241,Steinbrueck Native Gallery,(206) 441-3821,1500,"2030 Western Ave, Seattle, WA 98121","(47.6112287, -122.3444605)",0,0,0,0,0
+242,Tasty Gallery,(206) 706-3020,1000,"7513 Greenwood Ave N, Seattle, WA 98103","(47.683737, -122.3555197)",0,0,0,0,0
+243,The Legacy Ltd,(206) 624-6350,1250,"1003 1st Ave, Seattle, WA 98104","(47.6048267, -122.336745)",0,0,0,0,0
+244,Traver Gallery,(206) 587-6501,5000,"110 Union St #200, Seattle, WA 98101","(47.6080964, -122.3388114)",0,0,0,0,0
+245,True Love Art Gallery,(206) 227-3572,1500,"1525 Summit Ave, Seattle, WA 98122","(47.6149584, -122.3257242)",0,0,0,0,0
+246,Twilight Artist Collective,(206) 933-2444,1100,"306 SW Alaska St, Seattle, WA 98116","(47.5610855, -122.3854525)",0,0,0,0,0
+247,Vermillion Gallery,(206) 709-9797,2100,"1508 11th Ave, Seattle, WA 98122","(47.6144145, -122.3179029)",0,0,0,0,0
+248,Vetri Glass Gallery,(206) 667-9608,1500,"1404 1st Ave, Seattle, WA 98101","(47.6081315, -122.3390359)",0,0,0,0,0
+249,Wing Luke Museum,(206) 623-5124,58000,"719 S King St, Seattle, WA 98104","(47.598586, -122.3229832)",0,0,0,0,0
+250,Woodside/Braseth Gallery,(206) 622-7243,4200,"2101 9th Ave, Seattle, WA 98121","(47.6171641, -122.3374413)",0,0,0,0,0
+251,Davidson Galleries,(206) 624-7684,4134,"313 Occidental Ave S, Seattle, WA 98104","(47.5995312, -122.3331168)",0,0,0,0,0
+252,Greg Kucera Gallery,(206) 624-0770,8000,"212 3rd Ave S, Seattle, WA 98104","(47.6004217, -122.3298023)",0,0,0,0,0
+253,Henry Art Museum,(206) 543-2280,40000,"15th Ave NE, Seattle, WA 98105","(47.6539065, -122.3121096)",0,0,0,0,0
+254,Prographica Gallery,(206) 322-3851,1200,"3419 E Denny Way, Seattle, WA 98122","(47.6182086, -122.28800585)",0,0,0,0,0
+255,Roq La Rue Gallery,(206) 374-8977,1850,"532 1st Ave S., Seattle, WA 98104","(47.5974306, -122.3339422)",0,0,0,0,0
+256,Seattle Art Museum Olympic Sculture Park,(206) 654-3100,392040,"2901 Western Ave, Seattle, WA 98121","(47.6163466, -122.3538499)",0,0,0,0,0
+257,Winston Wachter Fine Art,(206) 652-5855,4500,"203 Dexter Ave N Seattle, WA 98109","(47.61989555, -122.34276255)",0,0,0,0,0
+258,Adefua Cultural Exchange Workshop,(206) 722-6602,500,"6716 Rainier Ave S, Seattle, WA 98118","(47.5420331, -122.272057)",0,0,0,0,0
+259,Museum of Flight,(206) 764-5720,375000,"9404 East Marginal Way S Seattle, WA 98108","(47.51842745, -122.2976981)",0,0,0,0,0
+260,Friends of KEXP,(206) 520-5800,6288,"113 Dexter Ave North Seattle, WA 98109","(47.61908755, -122.3428109)",0,0,0,0,0
+261,Broadway Bound Children's Theatre,(206) 526-5437,10000,"5031 University Way NE, Seattle, WA 98105","(47.6656768, -122.3136491)",0,0,0,0,0
+262,Pipsqueak,,700,"173 16th Ave Seattle, WA 98122","(47.6034343, -122.3115241)",0,0,0,0,0
+263,Sundance Cinemas LLC-Sundance Seattle,(206) 633-0059,12500,"4500 9th Ave NE, Seattle, WA 98105","(47.6617428, -122.3180727)",0,0,0,0,0
+264,Jeffrey Moose Gallery,(206) 467-6951,2400,"1333 5th Ave # 2, Seattle, WA 98101","(47.6091917, -122.3345412)",0,0,0,0,0
+265,Langston Hughes Performing Arts Institute,(206) 684-4757,30001,"104 17th Ave S, Seattle, WA 98144","(47.60129695, -122.309825143135)",0,0,0,0,0
+266,Museum of History and Industry (MOHAI),(206) 324-1126,52000,"860 Terry Ave N, Seattle, WA 98109","(47.6275898, -122.3369252)",0,0,0,0,0
+267,Seattle Youth Symphony,(206) 362-2300,2500,"11065 5th Ave NE, Suite A, Seattle, WA, 98125","(47.71056035, -122.323652351264)",0,0,0,0,0
+268,Longhouse Media,(206) 387-2468,800,"1515 12th Ave, Seattle, WA 98122","(47.614429, -122.317253)",0,0,0,0,0
+269,911 Media Arts Center,,,"909 NE 43rd St #206, Seattle, WA 98105","(47.6593651, -122.3180274)",0,0,0,0,0
+270,Admiral Theatre,,,"2343 California Ave SW, Seattle, WA 98116","(47.5819689, -122.3869421)",0,0,0,0,0
+271,Cornish College of the Arts-Beebe Building,,,"2014 9th Ave Seattle, WA 98121","(47.6167931, -122.3361846)",0,0,0,0,0
+272,Flatcolor Gallery,,,"77 S. Main St. Seattle, WA 98104","(47.5999356, -122.3353103)",0,0,0,0,0
+273,Bryan Ohno Gallery,,,"521 S Main St, Seattle, WA 98104","(47.5999167, -122.3267574)",0,0,0,0,0
+274,Cornish College of the Arts- Main,,,"1000 Lenora St Seattle, WA 98121","(47.617963, -122.336148)",0,0,0,0,0
+275,Artforte Gallery,,,"307 Occidental Ave S, Seattle, WA 98104","(47.5998538, -122.3331316)",0,0,0,0,0
+276,Cornish College of the Arts-Kerry Hall/Poncho Hall,,,"710 E Roy St Seattle, WA 98102","(47.6253347, -122.323067208535)",0,0,0,0,0
+277,Cornish College of the Arts- Notion,,,"1001 Lenora St Seattle, WA 98121","(47.6178924, -122.3357243)",0,0,0,0,0
+278,Cornish College of the Arts- Raisbeck Performance Hall,,,"2015 Boren Ave Seattle, WA 98121","(47.6178573, -122.3348113)",0,0,0,0,0
+279,East West Bookshop,,,"6500 Roosevelt Way NE, Seattle, WA 98115","(47.6760768, -122.3170608)",0,0,0,0,0
+280,Bad Animals,,,"2212 4th Ave, Seattle, WA 98121","(47.6151383, -122.342923)",0,0,0,0,0
+281,Barnes & Noble- Westwood Village,,,"2600 SW Barton St Suite E-1
+Seattle, WA 98126","(47.5220383, -122.3665674)",0,0,0,0,0
+282,Cornish College of the Arts- Annex,,,"1020 Virginia St, Seattle, WA 98101","(47.61760085, -122.334562447382)",0,0,0,0,0
+283,Edge of Glass Gallery,,,"513 N 36th St # H, Seattle, WA 98103","(47.6513564, -122.3515985)",0,0,0,0,0
+284,Elliott Bay Recording Inc,,,"932 12th Ave, Seattle, WA 98122","(47.6113827, -122.3164132)",0,0,0,0,0
+285,Azuma Gallery,,," 530 1st Ave South Seattle, WA 98104 ","(47.5975149, -122.3339613)",0,0,0,0,0
+286,Blue Moon Tavern,,,"712 NE 45th St, Seattle, WA 98105","(47.6614953, -122.3199004)",0,0,0,0,0
+287,Cornish College of the Arts-Commons,,,"2002 9th Ave Seattle, WA 98101","(47.6166738, -122.335888)",0,0,0,0,0
+288,Degenerate Art Ensemble,,,"210 NW Bowdoin Pl Seattle, WA 98107 ","(47.6550814, -122.3596788)",0,0,0,0,0
+289,Eclectic Theater Company,(206) 679-3271,900,"1214 10th Ave, Seattle, WA 98122","(47.6126561, -122.3191571)",0,0,0,0,0
+290,Flury and Company,,,"322 1st Ave S, Seattle, WA 98104","(47.5993435, -122.3339158)",0,0,0,0,0
+291,Baltic Room,,,"1207 Pine St Seattle, WA 98101","(47.6149287, -122.3282665)",0,0,0,0,0
+292,Bemis Building,,,"55 South Atlantic St Seattle, WA 98134","(47.5900022, -122.3362466)",0,0,0,0,0
+293,Blindfold Gallery (CLOSED),,,"1718 E Olive Way, Seattle, WA 98102","(47.6200267, -122.3227112)",0,0,0,0,0
+294,Electrokitty Recordings,,,"4415 Densmore Ave N, Seattle, WA 98103","(47.66083775, -122.33768375)",0,0,0,0,0
+295,Flamenco Gitana,,,"9250 14th Ave NW, Seattle, WA 98117","(47.6973909, -122.3736435)",0,0,0,0,0
+296,George Center for Community,(206) 362-3325,10000,"2212 NE 125th St Seattle, WA 98125 ","(47.7199293, -122.305032754194)",0,0,0,0,0
+297,Barnes & Noble- Downtown,,,"600 Pine St Suite 107 Seattle, WA 98101","(47.61287415, -122.33527622923)",0,0,0,0,0
+298,Barsuk Records,,,"217 W. Galer St, Seattle, WA 98119
+","(47.6321308, -122.3599365)",0,0,0,0,0
+299,Cornish College of the Arts-Centennial Lab,,,"1000 Virginia St Seattle, WA 98101","(47.6174134, -122.3349055)",0,0,0,0,0
+300,Egan's Ballard Jam House,,,"1707 NW Market St, Seattle, WA 98107","(47.6685294, -122.3793357)",0,0,0,0,0
+301,Francine Seders Gallery (CLOSED),,,"6701 Greenwood Ave N, Seattle, WA 98103","(47.6779185, -122.355635239838)",0,0,0,0,0
+302,Barnes & Noble-Northgate,,,"401 NE Northgate Way #1100 Seattle, WA 98125","(47.7083148, -122.328176856378)",0,0,0,0,0
+303,Chihuly Garden and Glass ,,,"305 Harrison St, Seattle, WA 98109","(47.62056855, -122.35049095)",0,0,0,0,0
+304,Electric Coffin Studio,,,"2629 NW Market St Seattle, WA 98107
+
+","(47.6685814444444, -122.390720141414)",0,0,0,0,0
+305,Gallery 1412,,,"1412 18th Ave, Seattle, WA 98122","(47.6133227, -122.3086811)",0,0,0,0,0
+306,Central District Forum for Arts & Ideas,,,"1404 E Yesler Way #202, Seattle, WA 98122","(47.6019002, -122.3137703)",0,0,0,0,0
+307,De Cajon Project,,,,,0,0,0,0,0
+308,Easy Street Records,,,"4559 California Ave SW, Seattle, WA 98116","(47.5614664, -122.3870841)",0,0,0,0,0
+309,Fremont Studios,,,"155 N 35th St, Seattle, WA 98103","(47.6514144, -122.3555957)",0,0,0,0,0
+310,Hanson Scott Gallery,,,"121 Prefontaine Pl S, Seattle, WA 98104","(47.6011373, -122.3295897)",0,0,0,0,0
+311,High Dive,,,"513 N 36th St, Seattle, WA 98103","(47.6513564, -122.3515985)",0,0,0,0,0
+312,Harvard Exit Theatre (CLOSED),,,"807 E Roy St, Seattle, WA 98102","(47.6250082, -122.3215822)",0,0,0,0,0
+313,Patrician Cameron Gallery (CLOSED),,,"234 Dexter Ave N, Seattle, WA 98109","(47.6207093, -122.3420916)",0,0,0,0,0
+314,Pink Door,,,"1919 Post Alley, Seattle, WA 98101","(47.6102805, -122.3424974)",0,0,0,0,0
+315,Re-bar,,,"1114 Howell St, Seattle, WA 98101","(47.6167076, -122.3310756)",0,0,0,0,0
+316,Seattle Academy of Arts and Sciences,,,"1201 E Union St, Seattle, WA 98122","(47.6127129, -122.3163494)",0,0,0,0,0
+317,M. Rosetta Hunter Art Gallery - Seattle Central Community College,,,"1701 Broadway Seattle, WA 98122
+
+","(47.6169084, -122.321152)",0,0,0,0,0
+318,Seattle Grip & Lighting,,,"1050 W Nickerson St, Seattle, WA 98119","(47.6547393, -122.3709909)",0,0,0,0,0
+319,Union Cultural Center,,,"803 South King St, Seattle, WA, 98104","(47.5982213, -122.322122)",0,0,0,0,0
+320,"HeART, the Gallery",,,"570 1st Ave S Seattle, WA 98104","(47.5963028, -122.3338311)",0,0,0,0,0
+321,Laundry Room Studio,,,,,0,0,0,0,0
+322,Planet Afua,,,"6716 Rainier Ave S Seattle, WA 98118","(47.5420331, -122.272057018355)",0,0,0,0,0
+323,Howard House,,,"604 2nd Ave Seattle, WA 98104","(47.602619, -122.3323144)",0,0,0,0,0
+324,Nagomi Tea House,,,"519 6th Ave S #200, Seattle, WA 98104","(47.5977324, -122.326797)",0,0,0,0,0
+325,Sub Pop Records,,,"2013 4th Ave, Third Floor Seattle, WA, 98121","(47.6132461, -122.3409939)",0,0,0,0,0
+326,Rain City Rock Camp for Girls,(206) 659-5471 ,1200,"300 19th Ave Seattle, WA 98122","(47.6044443, -122.3074673)",0,0,0,0,0
+327,Landmark Seven Gables Theatre,,,"911 NE 50th St, Seattle, WA 98105","(47.6647555, -122.3177085)",0,0,0,0,0
+328,LUCID Lounge,(206) 402-3042,1100,"5241 University Way NE, Seattle, WA 98105","(47.6676256, -122.3132962)",0,0,0,0,0
+329,Master Works,,,"2264 15th Ave W, Seattle, WA 98119","(47.64052875, -122.375825442886)",0,0,0,0,0
+330,MLK Community Center-Ewajo Dance Center and F.A.M.E.,,,"3201 E Republican St Seattle, WA 98112","(47.6230082, -122.290754782837)",0,0,0,0,0
+331,Jupiter Studios,,,"4000 Wallingford Ave North, Seattle, WA 98103","(47.6558318, -122.3360715)",0,0,0,0,0
+332,Kirsten Gallery,,,"5320 Roosevelt Way NE, Seattle, WA 98105","(47.6677253, -122.3170573)",0,0,0,0,0
+333,Landmark Varsity Theatre,,,"4329 University Way NE, Seattle, WA 98105","(47.6607139, -122.3135097)",0,0,0,0,0
+334,AMC Pacific Place 11,,,"600 Pine St #400, Seattle, WA 98101","(47.61287415, -122.33527622923)",0,0,0,0,0
+335,Seattle Scenic Studios,,,"2105 S Grand St, Seattle, WA 98144","(47.5868280816327, -122.304490795918)",0,0,0,0,0
+336,Slim's Last Chance,,,"5606 1st Ave S, Seattle, WA 98108","(47.5524847, -122.3339033)",0,0,0,0,0
+337,WaMu Theater,,,"1000 Occidental Ave S, Seattle, WA 98134","(47.593601, -122.3334874)",0,0,0,0,0
+338,Landmark Guild 45th,,,"2115 N 45th St, Seattle, WA 98103","(47.66112015, -122.333012781095)",0,0,0,0,0
+339,Lo-Fi Performance Gallery,,,"429 Eastlake Ave E, Seattle, WA 98109","(47.6229209, -122.3293344)",0,0,0,0,0
+340,Makerhaus,,,"122 NW 36th St, Seattle, WA 98107","(47.6534516, -122.3585927)",0,0,0,0,0
+341,Regal Meridian 16,,,"1501 7th Ave, Seattle, WA 98101","(47.6117662, -122.3338683)",0,0,0,0,0
+342,Paragon,,,"2125 Queen Anne Ave N, Seattle, WA 98109","(47.6378686, -122.3571792)",0,0,0,0,0
+343,Pilchuck Glass School Office (CLOSED/MOVED),,,"430 Yale Ave N, Seattle, WA 98109","(47.6228012, -122.3302142)",0,0,0,0,0
+344,Southeast Seattle Community Youth Orchestra ,,,,,0,0,0,0,0
+345,Seattle Arts & Lectures,,,"205 S. Findlay St, Seattle, WA 98108","(47.5524608, -122.3317069)",0,0,0,0,0
+346,Seattle Film Institute,(206) 568-4387,10000,"3210 16th Ave W, Seattle, WA 98119","(47.64891855, -122.377125306065)",0,0,0,0,0
+347,Stage One Theatre- North Seattle Community College,(206) 934-3708,,"9600 College Way N, Seattle, WA","(47.7030576, -122.3337619)",0,0,0,0,0
+348,Washington State Arts Alliance,,,"1204 Minor Ave, Seattle, WA 98101","(47.6115947, -122.3252001)",0,0,0,0,0
+349,Nu Black Arts West Theatre ,(206) 329-3328,,"843 Hiawatha Pl. S, Suite #305 Seattle, WA 98144","(47.594673, -122.309662)",0,0,0,0,0
+350,Seattle Teaching Artist Network,,,,,0,0,0,0,0
+351,Left Bank Books,,,"92 Pike St, Seattle, WA 98101","(47.6088801, -122.3403995)",0,0,0,0,0
+352,Ostara Group,,,"7025 1st Ave NW, Seattle, WA 98117","(47.6803384, -122.357711445954)",0,0,0,0,0
+353,"Seattle Pacific University McKinley Hall-Kreider Art Gallery, E.E. Bach Theater",,,"3307 3rd Ave West Seattle, WA 98119","(47.6489942, -122.361702734008)",0,0,0,0,0
+354,Sisko Gallery,,,"3126 Elliot Ave, Seattle, WA 98121","(47.6183638, -122.3572268)",0,0,0,0,0
+355,New West Edition,,,"5142 47th Ave NE, Seattle, WA 98105","(47.6672369, -122.277049808201)",0,0,0,0,0
+356,AMC Loews Oak Tree 6,,,"10006 Aurora Ave N, Seattle, WA 98133","(47.7018421, -122.342497931292)",0,0,0,0,0
+357,Little Red Hen,,,"7115 Woodlawn Ave NE, Seattle, WA 98115","(47.6802289, -122.3248831)",0,0,0,0,0
+358,National Film Festival for Talented Youth (NFFTY),,,"1319 Dexter Ave N, Seattle, WA 98109","(47.63115945, -122.342684249265)",0,0,0,0,0
+359,Rare Medium,,,"1321 E Pine St, Seattle, WA 98122","(47.6151142, -122.3145155)",0,0,0,0,0
+360,Sanctuary Art Center,(206) 522-6256,2500,"1604 NE 50th St, Seattle, WA 98105","(47.6652885, -122.310437725362)",0,0,0,0,0
+361,Seattle Aquarium,,,"1483 Alaskan Way, Seattle, WA 98101","(47.6017992, -122.3366083)",0,0,0,0,0
+362,Seattle Fandango Project in El Centro De La Raza,,,"2524 16th Ave S, Seattle, WA 98144","(47.5803398, -122.311297826237)",0,0,0,0,0
+363,Tin Hat,,,"512 NW 65th St, Seattle, WA 98117","(47.6760806, -122.3629711)",0,0,0,0,0
+364,Wilder Sound Studios,,,"3429 Airport Way S, Seattle, WA 98134","(47.5728531, -122.3231882)",0,0,0,0,0
+365,Seward Park Clay Studio,,,"5900 Lake Washington Blvd S, Seattle, WA 98118","(47.5494855, -122.2518888)",0,0,0,0,0
+366,501 Commons,,,"510 2nd Ave W Seattle, WA 98119","(47.6236732, -122.3590953)",0,0,0,0,0
+367,Heartland (CLOSED),,,"5306 Roosevelt Way NE Seattle, WA 98105","(47.66739015, -122.317098438068)",0,0,0,0,0
+368,New Orleans Creole Restaurant + Jazz Music (CLOSED),,,"114 First Ave S, Seattle, WA 98104","(47.5965162, -122.3341906)",0,0,0,0,0
+369,Northwest Tap Connection,,,"8732 Rainier Ave S, Seattle, WA 98118","(47.5243382, -122.2695039)",0,0,0,0,0
+370,Stonington Gallery,,,"125 S Jackson St, Seattle, WA 98104","(47.5989184, -122.3331591)",0,0,0,0,0
+371,Cleopatra Park Audio Recording,,,,,0,0,0,0,0
+372,Urban Wilderness Project,,,,,0,0,0,0,0
+373,Hengda Dance Academy,(206) 287-9998,1100,"815 S Weller St, Seattle, WA 98104","(47.5972693, -122.321963)",0,0,0,0,0
+374,Gansango Music & Dance,(206) 417-4679,286,"1243 NE 130th St, Seattle, WA 98125","(47.72280815, -122.313489200866)",0,0,0,0,0
+375,BallardWorks LLC,(206) 784-9987 ,14000,"2856 NW Market St Seattle, WA 98107","(47.6688915, -122.3954081)",0,0,0,0,0
+376,Highland Park Improvement Club,(206) 762-9825,3000,"1116 SW Holden St, Seattle, WA 98106","(47.5342216, -122.3500717)",0,0,0,0,0
+377,Ballard Alki Lodge IOOF-Ballard-Alki Lodge #170,(206) 782-9646,2251,"1706 NW Market St, Seattle, WA 98107","(47.6689407, -122.3793225)",0,0,0,0,0
+378,Cafe Racer Espresso,(206) 523-5282,2000,"5828 Roosevelt Way NE, Seattle, WA 98105","(47.67146895, -122.317125440109)",0,0,0,0,0
+379,Egyptian Theater,,,"805 East Pine St Seattle, WA 98122","(47.6149531, -122.3217473)",0,0,0,0,0
+380,Cassandria Blackmore Studio,,,"1115 East Pike St Seattle, WA 98122","(47.6139358, -122.3174302)",0,0,0,0,0
+381,Arthur Murray Dance Studio,,,"130 Western Ave W Seattle, WA 98119","(47.6194127, -122.3583566)",0,0,0,0,0
+382,Meter Music School,(206) 355-6088,1500,"2110 E Union St Seattle, WA 98122 ","(47.613136, -122.304382)",0,0,0,0,0
+383,The Northwest School,,,"1415 Summit Ave, Seattle, WA 98122","(47.6133929, -122.3259406)",0,0,0,0,0
+384,Fucko Alley Gallery,,400,"Alley of 10525 Ashworth Ave N Seattle, WA 98133","(47.7060528, -122.3397162)",0,0,0,0,0
+385,Highway 99 Blues Club,(206) 382-2171,6000,"1414 Alaskan Way, Seattle, WA 98101","(47.6017992, -122.3366083)",0,0,0,0,0
+386,South Seattle Community College Little Theatre,,,"6000 16th Ave. SW, Seattle, WA 98106","(47.5510384, -122.35186429201)",0,0,0,0,0
+387,Windows Art Gallery,(206) 632-7332,800,"4131 Woodland Park Ave N, Seattle, WA 98103","(47.6575835, -122.344895)",0,0,0,0,0
+388,Ballard Rock Rooms/Birds Nest,(206) 369-7588,8800,"632 NW 46th St Seattle, WA 98107","(47.6624817, -122.3655177)",0,0,0,0,0
+389,Superior Audio Service,(206) 369-7588,18000,"645 NW 45th St Seattle, WA 98107","(47.6612543, -122.3656412)",0,0,0,0,0
+390,Phinney Neighborhood Association,(206) 783-2244,40656,"6532 Phinney Ave N, Seattle, WA 98103","(47.677133, -122.3539896)",0,0,0,0,0
+391,Urban Artworks in Inscape,(206) 292-4142,,"815 Seattle Blvd S, B7, Seattle, WA 98134","(47.59511695, -122.3270859)",0,0,0,0,0
+392,Ltd. Art Gallery (CLOSED),(206) 457-2970,1100,"307 E Pike St, Seattle, WA 98122","(47.6138928, -122.3271174)",0,0,0,0,0
+393,Patricia Rovzar Gallery ,(206) 223-0273,2470,"1225 2nd Ave, Seattle, WA 98101","(47.6069251, -122.3372059)",0,0,0,0,0
+394,Versatile Arts,(866) 887-5256,3000,"7601 Greenwood Ave N, Suite 103, Seattle, WA 98103","(47.6841406, -122.3555094)",0,0,0,0,0
+395,Georgetown Arts and Cultural Center,(206) 851-1538,2500,"5809 Airport Way S, Seattle, WA 98108","(47.5504345, -122.3182596)",0,0,0,0,0
+396,City Hall Lobby Gallery & Anne Focke Gallery,,,"600 4th Ave Seattle, WA 98104","(47.6038849, -122.3300938)",0,0,0,0,0
+397,Ethnic Heritage Art Gallery at Seattle Municipal Tower,(206) 684-7171,,"700 5th Ave Seattle, WA 98104 ","(47.60501625, -122.3295729)",0,0,0,0,0
+398,Capitol Club (CLOSED),,,"414 E Pine St Seattle, WA 98122","(47.6153941, -122.3260485)",0,0,0,0,0
+399,Electric Tea Garden (CLOSED),,,"1402 E Pike St Seattle, WA 98122","(47.6143, -122.3139168)",0,0,0,0,0
+400,Room 104 Gallery (CLOSED) in Tashiro Kaplan,,,"306 S. Washington St #104 Seattle, WA 98104","(47.6010201, -122.3298371)",0,0,0,0,0
+401,New York Fashion Academy,(206) 352-2636,10000,"5201 Ballard Ave NW, Seattle, WA 98107","(47.66541915, -122.382442614838)",0,0,0,0,0
+402,Eritrean Association in Greater Seattle,,,"1528 Valentine Pl S, Seattle, WA 98144","(47.58879805, -122.30707705)",0,0,0,0,0
+403,"University of Washington 3D4M School of Art, Ceramic Metal Arts Building ",(206) 543-0970,40000,"4205 Mary Gates Memorial Dr NE Seattle, WA 98105","(47.6598273, -122.292252849248)",0,0,0,0,0
+404,Fetherston Gallery (CLOSED),,,"5701 6th Ave S, Seattle, WA 98108","(47.5514664, -122.3283134)",0,0,0,0,0
+405,Abmeyer + Wood Fine Art,(206) 628-9501,2500,"1210 2nd Ave, Seattle, WA 98101","(47.6070478, -122.3364073)",0,0,0,0,0
+406,The Studio of Awesome (CLOSED),,,"101 N 85th Street #201, Seattle, WA 98103 ","(47.69038, -122.3577075)",0,0,0,0,0
+407,Planet Art,(206) 782-7455,2000,"2811 NW 93rd St, Seattle, WA 98117","(47.69657535, -122.39338205)",0,0,0,0,0
+408,SRG Gallery,,,"110 Union St, Suite 300, Seattle, WA 98101","(47.6080964, -122.3388114)",0,0,0,0,0
+409,Sunny Arms Artist Cooperative,,,"707 S. Snoqualmie St Seattle, WA, 98108 ","(47.5616585, -122.3237001)",0,0,0,0,0
+410,Blick Art Materials,,,"1600 Broadway Ct, Seattle, WA 98122","(47.6121708, -122.319849)",0,0,0,0,0
+411,MadArt,(206) 623-1180,3500,"325 Westlake Ave N, Seattle, WA 98109","(47.6217088, -122.3389018)",0,0,0,0,0
+412,Massive Monkees Studios,Unavailable,2200,"664 S King St, Seattle, WA 98104","(47.598602, -122.324135)",0,0,0,0,0
+413,The Studios,(206) 582-3878,10000,"1801 5th Avenue Seattle, WA 98101","(47.6127204, -122.3378104)",0,0,0,0,0
+414,Rainier Glass Studio,,,"3200 Airport Way S. Seattle, WA 98134","(47.5756053, -122.3206151)",0,0,0,0,0
+415,The White Rabbit (CLOSED),,,"513 N 36th St Seattle, WA 98103","(47.6513564, -122.3515985)",0,0,0,0,0
+416,Art Stall Gallery,,,"97 Pike Pl, Seattle, WA 98101","(47.6094497, -122.3418366)",0,0,0,0,0
+417,Conrow Porcelain Studio,,,"1429 34th Ave, Seattle, WA 98122","(47.613737, -122.2895678)",0,0,0,0,0
+418,Dakota Art Store,(206) 523-4830,2000,"2000 NW Market St, Seattle, WA 98107","(47.66867, -122.382344)",0,0,0,0,0
+419,Seattle Pottery Supply,,,"35 S Hanford St, Seattle, WA 98134","(47.5749176, -122.337625202775)",0,0,0,0,0
+420,Ballard Academy of Music & Dance,,,"2404 NW 80th St Seattle, WA 98117","(47.6869229, -122.3878221)",0,0,0,0,0
+421,Open Books,(206) 633-0811,950,"2414 N 45th St, Seattle, WA 98103","(47.6615557, -122.3294857)",0,0,0,0,0
+422,Victory Studios,"(206) 282-1776
+",26000,"2247 15th Ave W Seattle, WA 98119","(47.6402468, -122.376639837201)",0,0,0,0,0
+423,University of Washington School of Music & Brechemin Auditorium ,(206) 543-1201,71904,"University of Washington School of Music Music Building
+Box 353450
+Seattle, WA 98195","(47.655335, -122.30352)",0,0,0,0,0
+424,Jamtown,,,"12729 Lake City Way NE, Seattle, WA 98125","(47.722147, -122.2941323)",0,0,0,0,0
+425,Roaring Mouse Creative Arts Studio,,,"7526 20th Ave NE Seattle, WA 98115","(47.6839218, -122.3064199)",0,0,0,0,0
+426,Glasshouse Studios,,,"311 Occidental Ave S, Seattle, WA 98104","(47.5997045, -122.3331303)",0,0,0,0,0
+427,Seattle Atelier,,,"1426 S Jackson St, Seattle, WA 98144","(47.5994698, -122.3127638)",0,0,0,0,0
+428,Densho: The Japanese American Legacy Project,,,"1416 S. Jackson St. Seattle, WA 98144 ","(47.5994214, -122.313387509187)",0,0,0,0,0
+429,Comet Tavern,,,"922 E Pike St, Seattle, WA 98122","(47.6142655, -122.3197336)",0,0,0,0,0
+430,University Book Store,(206) 685-9920,90000,"4326 University Way NE, Seattle, WA 98105","(47.6604253, -122.312826881376)",0,0,0,0,0
+431,Christian Grevstad Gallery,,,"312 Occidental Ave S, Seattle, WA 98104","(47.5995076, -122.3326934)",0,0,0,0,0
+432,Northwest Art & Frame,,,"4733 California Ave SW, Seattle, WA 98116","(47.5601782, -122.387154)",0,0,0,0,0
+433,The Art Study,,,"4630 NE Village Ln, Seattle, WA 98105","(47.6626739, -122.2991137)",0,0,0,0,0
+434,Wikstrom Gallery,,,"5411 Meridian Ave. N. Seattle, WA 98103","(47.6683879, -122.3339953)",0,0,0,0,0
+435,eXit Space School of Dance,,,"414 NE 72nd St, Seattle, WA 98115","(47.6808468, -122.3238474)",0,0,0,0,0
+436,My World Dance and Fitness Studio,(206) 861-2500,600,"849 Hiawatha Pl S, Seattle, WA 98144","(47.595163, -122.309673)",0,0,0,0,0
+437,Juan Alonso Studio,,,"214 1st Ave S Suite B15 Seattle, WA 98104","(47.6004712, -122.333963)",0,0,0,0,0
+438,Ace Studios Gallery,,,"619 Western Ave, 3rd Fl Seattle, WA 98104","(47.6023356, -122.3358275)",0,0,0,0,0
+439,Living Computer Museum,,,"2245 1st Ave S, Seattle, WA 98134","(47.5825204, -122.334653)",0,0,0,0,0
+440,Daniel Smith Art Supplies,,,"4150 1st Ave S, Seattle, WA 98134","(47.5655555, -122.3336229)",0,0,0,0,0
+441,Artist & Craftsman Supply,,,"4350 8th Ave NE Seattle, WA 98105","(47.6599873030303, -122.319658979798)",0,0,0,0,0
+442,Seattle Yarn,(206) 935-2010,1800,"5633 California Ave SW, Seattle, WA 98136","(47.5511485, -122.3874063)",0,0,0,0,0
+443,Clearwater Film LLC,,400,"1515 12th Ave Seattle, WA 98102","(47.614429, -122.317253)",0,0,0,0,0
+444,University of Washington Meany Hall,(206) 543-4880,58026,"4140 George Washington Ln NE, Seattle, WA 98105","(47.655709, -122.310569)",0,0,0,0,0
+445,Keys on Main,,,"11 Roy St Seattle, WA 98109","(47.6253458, -122.3561735)",0,0,0,0,0
+446,Emerald City Trapeze,,,"2702 6th Ave South Seattle, WA 98134","(47.579594, -122.3255672)",0,0,0,0,0
+447,The Ballet Studio,(206) 329-9166,1300,"4556 University Way NE, Seattle, WA 98105","(47.6628472, -122.3127576)",0,0,0,0,0
+448,Anthony Peters' Tap Dance Seattle,,,"6600 1st Ave NE Seattle, WA 98115","(47.6777479, -122.328027403825)",0,0,0,0,0
+449,Seattle University Bookstore,(206) 296-5820,10000,"823 12th Ave Seattle, WA 98122","(47.6100244, -122.3172211)",0,0,0,0,0
+450,University of Washington Kane Walker-Ames Room,,,"4069 Spokane Ln, Seattle, WA 98105","(47.65663, -122.309154)",0,0,0,0,0
+451,Khambatta Dance Company,,,"5609 34th Ave SW, Seattle, Washington 98126","(47.551598, -122.375336)",0,0,0,0,0
+452,Wall of Sound,,,"1205 E Pike St #1C, Seattle, WA 98122","(47.613922, -122.316429)",0,0,0,0,0
+453,Everyday Music,,,"1520 10th Ave, Seattle, WA 98122","(47.614746, -122.319069)",0,0,0,0,0
+454,Design In Public,(206) 448-4938 x107,2500,"1911 1st Ave, Seattle, WA 98101","(47.610493, -122.341634)",0,0,0,0,0
+455,Brace Point Pottery,,,"4208 SW 100th St Seattle, WA 98146","(47.513939, -122.386360)",0,0,0,0,0
+456,Capitol Hill Block Party,,,"1122 E Pike St Seattle, WA 98122","(47.614273, -122.317245)",0,0,0,0,0
+457,High Voltage Music Store,,,"910 E Pike St, Seattle, WA 98122","(47.614338, -122.320107)",0,0,0,0,0
+458,Blowing Sands Glass Studio/Laura Frost Fine Arts Gallery,,,"5805 14th Ave NW Seattle, WA 98107","(47.671066, -122.373662)",0,0,0,0,0
+459,Studio Current,,,"1417 10th Ave. #C Seattle, WA 98122","(47.613223, -122.319412)",0,0,0,0,0
+460,Georgetown Atelier,,,"5628 Airport way S. #330 Seattle, WA, 98108","(47.551817, -122.319454)",0,0,0,0,0
+461,Civetta Dance Space,,,"124 N 103rd St Seattle, WA 98133","(47.703865, -122.356766)",0,0,0,0,0
+462,Eight and Sand Gallery,(206) 304-0394,132,"5840 Airport Way S. Suite 212, Seattle WA 98108","(47.550962, -122.318612)",0,0,0,0,0
+463,Pocket Theater,(303) 803-4589,2500,"8313 Greenwood Ave N Seattle, WA 98103","(47.689323, -122.355300)",0,0,0,0,0
+464,Between Cultures Gallery,,,"8809 Roosevelt Way NE, Seattle, WA 98115","(47.692390, -122.317630)",0,0,0,0,0
+465,Threshold Gallery at Mithun,,,"1201 Alaskan Way #200, Seattle, WA 98101 ","(47.605053, -122.340225)",0,0,0,0,0
+466,Canoe Social Club,(206) 550-4818,522,"1423 10th Ave Seattle, WA 98122","(47.613571, -122.319832)",0,0,0,0,0
+467,Glassy Eye Studio,,,"600 NW 40th St Seattle, WA 98107","(47.656467, -122.364128)",0,0,0,0,0
+468,Couth Buzzard Books,,,"8310 Greenwood Ave N Seattle, WA 98103","(47.689507, -122.354950)",0,0,0,0,0
+469,DASSdance Seattle,,,"1630 27th Avenue Seattle, WA 98122","(47.616283, -122.297218)",0,0,0,0,0
+470,Vignettes Gallery at El Capitan Apartments,,,"1617 Yale Ave, Seattle, WA 98122","(47.615807, -122.328384)",0,0,0,0,0
+471,Atlas Theatre,,,"3509 Fremont Ave N Seattle, WA 98103","(47.650660, -122.349890)",0,0,0,0,0
+472,Washington State Convention & Trade Center Gallery,,,"800 Convention Place, Second Floor Seattle, WA 98101","(47.611415, -122.331472)",0,0,0,0,0
+473,Serafina,,,"2043 Eastlake Ave E Seattle, WA 98102","(47.638030, -122.325924)",0,0,0,0,0
+474,Vito's ,(206) 397-4053,4000,"927 9th Ave Seattle, WA 98104","(47.607943, -122.326933)",0,0,0,0,0
+475,The Collaboratory,,,"5623 Rainier Ave S Seattle, WA 98118","(47.551707, -122.277981)",0,0,0,0,0
+476,OutWest,,,"5401 California Ave SW, Seattle, WA 98136","(47.553764, -122.387314)",0,0,0,0,0
+477,Golden Age Collectibles,,,"1501 Pike Pl #401, Seattle, WA 98101","(47.608707, -122.341049)",0,0,0,0,0
+478,Woodcraft of Seattle,,,"5963 Corson Ave. S. Seattle, WA 98108","(47.548363, -122.321178)",0,0,0,0,0
+479,Alexander's Bead Bazaar,,,"6307 Roosevelt Way NE Seattle, WA 98115","(47.674446, -122.317734)",0,0,0,0,0
+480,Mind Unwind Foundation,(206) 829-9128,2000,"2206A California Ave SW Seattle, WA 98116","(47.583717, -122.386024)",0,0,0,0,0
+481,The Dreaming Comics and Games,,,"5226 University Way NE Seattle, WA 98105","(47.667054, -122.313051)",0,0,0,0,0
+482,Phoenix Comics & Games,,,"113 Broadway E, Seattle, WA 98102","(47.618977, -122.320876)",0,0,0,0,0
+483,Comics Dungeon,(206) 545-8373,1600,"319 NE 45th St, Seattle, WA 98105","(47.661356, -122.324800)",0,0,0,0,0
+484,Arcane Comics & More,,,"5809 15th Ave NW, Seattle, WA 98107","(47.671105, -122.376240)",0,0,0,0,0
+485,Mockingbird Books,,,"7220 Woodlawn Ave NE Seattle, WA 98115 ","(47.681091, -122.324814)",0,0,0,0,0
+486,Math 'n' Stuff,,,"8926 Roosevelt Way NE Seattle, WA 98115","(47.693851, -122.317268)",0,0,0,0,0
+487,The Comic Stop U District,,,"1307 NE 45th St, Seattle, WA 98105","(47.661270, -122.314006)",0,0,0,0,0
+488,Ada's Technical Books,,,"425 15th Ave East Seattle, WA 98112","(47.622415, -122.312630)",0,0,0,0,0
+489,Singles Going Steady ,,,"2219 2nd Ave, Seattle, WA 98121","(47.613453, -122.345268)",0,0,0,0,0
+490,88 Keys Dueling Piano Bar,,,"315 2nd Ave S Seattle, WA 98104","(47.599537, -122.331978)",0,0,0,0,0
+491,Storum Jewish Community Center,,,"2618 NE 80th St Seattle, WA 98115","(47.686670, -122.299241)",0,0,0,0,0
+492,International Drop-In Center,,,"7301 Beacon Ave S Seattle, WA 98108","(47.536369, -122.293419)",0,0,0,0,0
+493,Elderwise,(206) 774-6606,350,"900 University St Seattle, WA 98101","(47.610928, -122.329353)",0,0,0,0,0
+494,Panda Photographic Laboratories Inc,(206) 285-7091,2300,"533 Warren Ave N, Seattle, WA 98109","(47.623769, -122.354085)",0,0,0,0,0
+495,Paper Source Queen Anne,,,"1908 Queen Anne Ave N Seattle, WA 98109","(47.636174, -122.356958)",0,0,0,0,0
+496,American Music,,,"4450 Fremont Ave N Seattle, WA 98103","(47.660980, -122.349632)",0,0,0,0,0
+497,Ethiopian Community Center,,,"8323 Rainier Ave South Seattle, WA 98118","(47.528648, -122.270409)",0,0,0,0,0
+498,Aaron Brothers Art & Framing,,,"1513 3rd Ave Seattle, WA 98101","(47.610031, -122.338524)",0,0,0,0,0
+499,Paper Source,,,"2606 NE 46th St Seattle, WA 98105","(47.661911, -122.284111)",0,0,0,0,0
+500,World Beads,,,"98 Virginia St, Seattle, WA 98101","(47.610974, -122.342750)",0,0,0,0,0
+501,Neptune Music Co,,,"4344 Brooklyn Ave NE Seattle, WA 98105","(47.660930, -122.314283)",0,0,0,0,0
+502,Seattle Indian Center,,,"611 12th Ave S, Suite 300 Seattle, WA 98144","(47.597092, -122.317932)",0,0,0,0,0
+503,Asian Resource Center,,,"1025 South King St. Seattle, WA 98104","(47.597923, -122.318398)",0,0,0,0,0
+504,Glazer's Camera,,,"433 8th Ave N, Seattle, WA 98109","(47.622963, -122.341438)",0,0,0,0,0
+505,Beadworld,,,"9524 Roosevelt Way NE Seattle, WA 98115","(47.698005, -122.317615)",0,0,0,0,0
+506,Nancy's Sewing Basket,(206) 282-9112,3500,"2221 Queen Anne Ave N, Seattle, WA 98109","(47.639050, -122.357315)",0,0,0,0,0
+507,World Beads Capitol Hill,,,"233 Broadway E Seattle, WA 98102","(47.620330, -122.320908)",0,0,0,0,0
+508,Comics Journal / Fantagraphics Books,,,"7563 Lake City Way NE, Seattle, WA 98115","(47.684772, -122.315903)",0,0,0,0,0
+509,Half Price Books,,,"4709 Roosevelt Way N.E. Seattle, WA 98105","(47.663578, -122.317726)",0,0,0,0,0
+510,B L M F Literary Saloon,,,"1501 Pike Pl #322, Seattle, WA 98101","(47.608707, -122.341049)",0,0,0,0,0
+511,Hobby Lobby ,,,"3200 Aurora Ave N Seattle, WA 98133","(47.754509, -122.345650)",0,0,0,0,0
+512,Hot Glass Color,,,"2227 5th Ave Seattle, WA 98121","(47.615477, -122.342210)",0,0,0,0,0
+513,The Comedy Underground,,,"109 S. Washington St Seattle, WA 98104","(47.600890, -122.333879)",0,0,0,0,0
+514,Pacific Fabrics and Crafts,,,"2230 4th Ave S Seattle, WA 98134","(47.582653, -122.328331)",0,0,0,0,0
+515,Monster Art & Clothing,,,"5000 20th Ave NW Seattle, WA 98107","(47.665687, -122.382206)",0,0,0,0,0
+516,Stitches,,,"711 East Pike St Seattle, WA 98122","(47.614070, -122.323097)",0,0,0,0,0
+517,The Hyogo Business and Cultural Center,,,"1001 4th Ave, Suite 2330 Seattle, WA 98154","(47.606213, -122.333794)",0,0,0,0,0
+518,The Color Group,(206) 281-1630,3000,"1741 4th Ave S Suite B Seattle, WA 98134","(47.586853, -122.329559)",0,0,0,0,0
+519,Jo Ann Fabrics and Crafts Aurora,,,"15236 Aurora Ave N Seattle, WA 98133","(47.739364, -122.345273)",0,0,0,0,0
+520,Porchlight Coffee & Records,,,"1517 14th Ave, Seattle, WA 98122","(47.614417, -122.314238)",0,0,0,0,0
+521,Filipino Community Center,,,"5740 Martin Luther King Jr Way, Seattle, WA 98118","(47.550125, -122.287086)",0,0,0,0,0
+522,The Weaving Works,(206) 524-1221,2800,"6514 Roosevelt Way NE Seattle, WA 98115","(47.676398, -122.317390)",0,0,0,0,0
+523,Paint the Town,,,"4611 Village Court NE Seattle, WA 98105","(47.660400, -122.280525)",0,0,0,0,0
+524,Jo Ann Fabrics and Crafts,,,"2217 NW 57th St Seattle, WA 98107","(47.669819, -122.385689)",0,0,0,0,0
+525,JCCCW Japanese Cultural & Community Center of WA,,,"1414 S Weller St Seattle, WA 98144","(47.597744, -122.312012)",0,0,0,0,0
+526,Russian Community Center,,,"704 19th Ave E, Seattle, WA 98112","(47.625474, -122.307320)",0,0,0,0,0
+527,7 Point Studio and The Boro School,(206) 284-5277,18000,"1300 S Dearborn St Seattle, WA 98144","(47.596252, -122.315567)",0,0,0,0,0
+528,Drygood Design,,,"301 Occidental Ave S, Seattle 98104","(47.599903, -122.332888)",0,0,0,0,0
+529,Glassybaby University Village,,,"2627 NE Village Lane Seattle, WA 98105","(47.660400, -122.280525)",0,0,0,0,0
+530,Tall's Camera,,,"401 NE Northgate Way, Seattle, WA 98125","(47.708600, -122.324790)",0,0,0,0,0
+531,"Photo-tronics, Inc.",,,"513 Dexter Ave. N. Seattle, WA 98109","(47.623726, -122.342773)",0,0,0,0,0
+532,Impress Cards and Crafts,,,"2621 NE Village Lane Seattle, WA  98105","(47.660400, -122.280525)",0,0,0,0,0
+533,Glassybaby Madrona,,,"3406 East Union St Seattle, WA 98122","(47.613110, -122.288887)",0,0,0,0,0
+534,Venue Ballard,"(206) 789-3335
+",2000,"5408 22nd Ave NW Seattle, WA 98107","(47.667813, -122.384795)",0,0,0,0,0
+535,Off the Wall School of Music,,,"4509 Midvale Ave N Seattle, WA 98103","(47.661632, -122.343770)",0,0,0,0,0
+536,Bell & Reed,,,"15 Prefontaine Pl. S, Suite 510 Seattle, WA 98104","(47.601719, -122.330269)",0,0,0,0,0
+537,Greenwood Violin Studio,,,"13000 Linden Ave N Seattle, WA 98133","(47.723804, -122.347351)",0,0,0,0,0
+538,Soul Cat Guitars,,,"1998 Western Ave Seattle, WA 98126","(47.610330, -122.343685)",0,0,0,0,0
+539,Washington Park Arboretum and Madison Park Graham Visitors Center,,,"2300 Arboretum Drive E Seattle, WA 98112","(47.638016, -122.294137)",0,0,0,0,0
+540,Georgetown Music Store,,,"6111 13th Ave S Seattle, WA 98108","(47.548225, -122.316483)",0,0,0,0,0
+541,Kennelly Keys Music,,,"10720 5th Ave. NE Seattle, WA 98125","(47.707703, -122.323263)",0,0,0,0,0
+542,Emerald City Guitars,,,"83 S Washington St, Seattle, WA 98104","(47.600886, -122.334547)",0,0,0,0,0
+543,Creative Music Adventures,,,"4501 Interlake Ave N #2 Seattle, WA 98103","(47.661797, -122.340996)",0,0,0,0,0
+544,Klondike Gold Rush National Historic Park,,,"319 2nd Ave S, Seattle, WA 98104","(47.599373, -122.331978)",0,0,0,0,0
+545,Allied Arts Foundation,,,"1620 43rd Ave E #16A, Seattle, WA 98112","(47.633820, -122.276352)",0,0,0,0,0
+546,Dusty Strings,,,"3406 Fremont Ave N Seattle, WA 98103","(47.649744, -122.349798)",0,0,0,0,0
+547,Capitol Music Center,,,"1006 NE 50th St, Seattle, WA 98105","(47.664948, -122.317176)",0,0,0,0,0
+548,High Voltage Music Store,,,"910 E Pike St, Seattle, WA 98122","(47.614338, -122.320107)",0,0,0,0,0
+549,Metropolitan Music,,,"8414 5th Ave NE Seattle, WA 98115","(47.689869, -122.322983)",0,0,0,0,0
+550,A-1 Piano,,,"7020 Greenwood Ave N. Seattle, WA 98103","(47.679985, -122.355011)",0,0,0,0,0
+551,Bill Matthews' Conga Joy,,,"2220 NW Market St Seattle, WA 98107","(47.669090, -122.385796)",0,0,0,0,0
+552,Art With A Heart,,,"316 Broadway, Suite 316 Seattle, WA 98122","(47.604534, -122.320335)",0,0,0,0,0
+553,The Trading Musician,,,"5908 Roosevelt Way NE Seattle, WA 98105","(47.671730, -122.317154)",0,0,0,0,0
+554,Oberloh Woodwind and Brass Works,,,"958 N 127th St #A Seattle, WA 98133","(47.721649, -122.345955)",0,0,0,0,0
+555,Hillman Guitar Instruction,,,"2412 Westlake Ave N Suite 2A Seattle, WA 98109","(47.640102, -122.341103)",0,0,0,0,0
+556,Fauntleroy Schoolhouse/Fauntleroy Community Service Agency,(425) 445-4064,49000,"9131 California Ave. SW Seattle, WA 98136","(47.521908, -122.388489)",0,0,0,0,0
+557,Scratch Deli,,,"1718 12th Ave Seattle, WA 98122","(47.617073, -122.316490)",0,0,0,0,0
+558,Guitar Center,,,"530 Westlake Ave, Seattle, WA 98109","(47.623835, -122.338460)",0,0,0,0,0
+559,The Music Factory,,,"2832 E Arthur Pl, Seattle, WA 98112","(47.623119, -122.295752)",0,0,0,0,0
+560,Central Area Senior Center,,,"500 30th Ave S Seattle, WA 98144","(47.597873, -122.293854)",0,0,0,0,0
+561,"Studio Instrument Rentals, Inc.",,,"3631 Interlake Ave N Seattle, WA 98103","(47.651569, -122.341705)",0,0,0,0,0
+562,Equinox Studios,,,"6555 5th Ave S Seattle, WA 98108","(47.544634, -122.328371)",0,0,0,0,0
+563,Central Saloon,,,"207 1st Ave S, Seattle, WA 98104","(47.600586, -122.334579)",0,0,0,0,0
+564,The Drum Exchange,,,"4501 Interlake Ave N Seattle, WA 98103","(47.661797, -122.340996)",0,0,0,0,0
+565,Thunder Road Guitars,,,"3916 California Ave SW Seattle, WA 98116","(47.568764, -122.386375)",0,0,0,0,0
+566,Mode Music Studios,,,"3805 Delridge Way SW Seattle, WA 98106","(47.569904, -122.362556)",0,0,0,0,0
+567,Sound Guitar Repair,,,"118 N. 35th St. #105 Seattle, WA 98103","(47.652184, -122.356773)",0,0,0,0,0
+568,Dance Underground,,,"340 15th E Seattle, WA 98112","(47.621666, -122.312294)",0,0,0,0,0
+569,Gay City Health Project,(206) 860-6969,750,"517 East Pike St Seattle, WA 98122","(47.613796, -122.324783)",0,0,0,0,0
+570,Historic Seattle Dearborn House,,,"1117 Minor Ave Seattle, WA 98101","(47.610874, -122.325470)",0,0,0,0,0
+571,Leif Erikson Lodge Sons of Norway,,,"2245 NW 57th St, Seattle, WA 98107","(47.669819, -122.386803)",0,0,0,0,0
+572,Mike and Mike's Guitar Bar,,,"2418 NW 80th St Seattle, WA 98117","(47.686820, -122.388387)",0,0,0,0,0
+573,Seattle Sound Repair,,,"4112 Stone Way N, Seattle, WA 98103","(47.657080, -122.342359)",0,0,0,0,0
+574,Sunshine from Polynesia,(206) 282-0769,400,"4524 33rd Avenue W, Seattle, WA 98199","(47.662090, -122.399170)",0,0,0,0,0
+575,Solid Repair,,,"9407 22nd Ave SW Seattle, WA 98106","(47.518949, -122.361803)",0,0,0,0,0
+576,Monster Concerts INC DBA STUDIO SEVEN,(206) 286-1312,7300,"110 S Horton St, Seattle, WA 98134","(47.574394, -122.333908)",0,0,0,0,0
+577,Roseanne's School of Dance,,,"3116 W Smith St Seattle, WA 98199","(47.641296, -122.397820)",0,0,0,0,0
+578,Gallery Mack's Art Connection,,,"2100 Western Ave Seattle, WA 98121","(47.611458, -122.344795)",0,0,0,0,0
+579,University of Washington Health Sciences Library,(206) 543-3390,10000,"1959 NE Pacific St Room T-334 Seattle, WA 98195","(47.649921, -122.306355)",0,0,0,0,0
+580,University of Washington D Center,(206) 685-0949,450,"Mary Gates Hall, University of Washington.  Seattle, WA 98195","(47.656761, -122.312027)",0,0,0,0,0
+581,Capitol Cider,,,818 E Pike St Seattle WA 98122,"(47.614070, -122.321734)",0,0,0,0,0
+582,Jive Time,,,"3506 Fremont Ave N, Seattle, WA 98103","(47.650660, -122.349890)",0,0,0,0,0
+583,Silver Platters Northgate,,,"9560 1st Ave NE Seattle, WA 98115","(47.698273, -122.328456)",0,0,0,0,0
+584,Zions Gate Records,,,"1100 E Pike St, Seattle, WA 98122","(47.61426, -122.317856)",0,0,0,0,0
+585,Light in the Attic Records,,,"913 NW 50th St, Seattle, WA 98107","(47.664829, -122.369316)",0,0,0,0,0
+586,Ravenna-Eckstein Community Center & Yesler,,,"917 E Yesler Way Seattle, WA 98122","(47.601715, -122.320429)",0,0,0,0,0
+587,Silver Platters SoDo,,,"2930 1st Ave S Seattle, WA 98121",,0,0,0,0,0
+588,Holy Cow Records,,,"1501 Pike Pl, Suite 325 Seattle, WA 98121","(47.608707, -122.341049)",0,0,0,0,0
+589,Spin Cycle,,,"321 Broadway Ave East Seattle, WA 98102","(47.621666, -122.321304)",0,0,0,0,0
+590,Hawthorne Stereo,,,"6303 Roosevelt Way NE, Seattle, WA 98115","(47.674288, -122.317353)",0,0,0,0,0
+591,Bop Street Records,,,"2220 NW Market St, Seattle, WA 98107","(47.669090, -122.385796)",0,0,0,0,0
+592,Golden Oldies,,," 201 NE 45th St, Seattle, WA 98105","(47.661160, -122.326927)",0,0,0,0,0
+593,Tune HiFi,,,"2121 1st Ave, Seattle, WA 98121","(47.612072, -122.344917)",0,0,0,0,0
+594,Mossy Bottom Records,,,"5049 Brooklyn Ave Seattle, WA 98105","(47.666290, -122.314484)",0,0,0,0,0
+595,Stormy Muffin Studios,,,"219 1st Avenue S #B1 Seattle, WA 98104","(47.600216, -122.334579)",0,0,0,0,0
+596,Earwig Studio,,,"74 S Lucile St Seattle, WA 98134","(47.553658, -122.335594)",0,0,0,0,0
+597,C Art Gallery,,,"855 Hiawatha Place Seattle, WA 98144","(47.595090, -122.309616)",0,0,0,0,0
+598,Seattle Magazine/Tiger Oak Media Inc,,,"1417 4th Ave., Suite 600 Seattle, WA 98101","(47.609505, -122.336502)",0,0,0,0,0
+599,Bremelo Press,,,"1400 S. Jackson Place, Seattle, WA 98144","(47.598796, -122.313501)",0,0,0,0,0
+600,Underwood Stables,,,"4306 Fremont Ave N Seattle, WA 98103","(47.659514, -122.350030)",0,0,0,0,0
+601,Milagros Mexican Folk Art Gallery,,,"Pike Place Market 1530 Post Alley Seattle, WA 98101","(47.609297, -122.341213)",0,0,0,0,0
+602,Thrive Art School,(206) 522-1659,1200,"6329 Ravenna Ave NE Seattle, WA 98115","(47.675001, -122.303815)",0,0,0,0,0
+603,Brooklyn Frame Shop,,,"4733 Brooklyn Ave NE Seattle, WA 98105","(47.664074, -122.314514)",0,0,0,0,0
+604,City Arts Magazine/Encore Media Group,,,"425 N. 85th St Seattle, WA 98103","(47.690365, -122.352966)",0,0,0,0,0
+605,Glass Art Society,,,"6512 23rd Ave NW, Suite 329 Seattle, WA 98117","(47.676288, -122.385388)",0,0,0,0,0
+606,Bayview Work Lofts,,,"168 Western Ave W Seattle, WA 98119","(47.619567, -122.359014)",0,0,0,0,0
+607,Baas Framing Studio & The Madison Art Collective,(206) 324-4742,1200,"2703 E Madison Seattle, WA 98112","(47.622675, -122.297416)",0,0,0,0,0
+608,Canvas Paint & Sip,,,"3418 Fremont Ave N Seattle, WA 98103","(47.650017, -122.349812)",0,0,0,0,0
+609,Northwest Encaustic,(206) 291-7775,800,"7150 44th Ave SW Seattle, WA 98136","(47.539026, -122.388536)",0,0,0,0,0
+610,The Tudor Choir,,,"2225 Eastlake Ave. E. #103 Seattle, WA 98102","(47.639149, -122.326256)",0,0,0,0,0
+611,Artech,,,"2601 1st Ave Seattle, WA 98121","(47.615215, -122.350227)",0,0,0,0,0
+612,10 Degrees,,750,"1312 E Union St Seattle, WA 98122","(47.612905, -122.314770)",0,0,0,0,0
+613,University of Washington Husky Union Building,(206) 543-8191,262000,"4001 West Stevens Way NE Seattle, WA 98195
+","(47.652168, -122.306648)",0,0,0,0,0
+614,Mack 9 Music Group,,,"212 Alaskan Way S #105A Seattle, WA 98104","(47.600380, -122.335144)",0,0,0,0,0
+615,Seattle Metropolitan,,,"1201 Western Ave, Suite 425 Seattle, WA 98101","(47.605728, -122.339195)",0,0,0,0,0
+616,Macha Monkey Productions,,,"2222 2nd Ave #200 Seattle, WA 98121","(47.613483, -122.344756)",0,0,0,0,0
+617,Senior Center of West Seattle,,,"4217 SW Oregon St. Seattle, WA 98116","(47.562884, -122.385849)",0,0,0,0,0
+618,St. Clouds,,,"1131 34th Ave Seattle, WA 98122","(47.612602, -122.289642)",0,0,0,0,0
+619,Seattle Metropolitan Police Museum,,,"317 3rd Ave South, Seattle, WA 98104","(47.599653, -122.330260)",0,0,0,0,0
+620,The National Archives at Seattle,,,"6125 Sand Point Way NE Seattle, WA 98115","(47.673092, -122.267960)",0,0,0,0,0
+621,University of Washington Elisabeth C. Miller Library,,,"3501 Northeast 41st Street, Seattle, WA 98105","(47.658408, -122.290305)",0,0,0,0,0
+622,Garfield Community Center,,,"2323 E Cherry St, Seattle, WA 98122","(47.608010, -122.302349)",0,0,0,0,0
+623,Image Journal,(206) 281-2988,1000,"3307 3rd Ave W Seattle, WA, 98119 ","(47.649069, -122.360890)",0,0,0,0,0
+624,The Stranger,,,"1535 11th Ave (Third Floor), Seattle, WA 98122",,0,0,0,0,0
+625,The Seattle Times,,,"1000 Denny Way Seattle, WA 98109","(47.619053, -122.336395)",0,0,0,0,0
+626,Ballard NW Senior Center,"(206) 297-0403
+",4200,"5429 32nd NW Seattle, WA 98107","(47.668369, -122.398666)",0,0,0,0,0
+627,Seattle Weekly,,,"307 3rd Ave S, Second Floor, Seattle, WA 98104","(47.599701, -122.330650)",0,0,0,0,0
+628,Early Music Guild,"(206) 325-7066
+",518,"2366 Eastlake Ave E #325, Seattle, WA 98102","(47.641225, -122.325897)",0,0,0,0,0
+629,Filipino American National Historical Society ,,,"810 18th Ave #100 Seattle, WA 98122","(47.609490, -122.308904)",0,0,0,0,0
+630,History House of Greater Seattle,,,"790 N 34th St, Seattle, WA 98103","(47.649347, -122.348076)",0,0,0,0,0
+631,University of Washington Drama Library,,,"Room 145 Hutchinson Hall Seattle, WA 98195","(47.654194, -122.300385)",0,0,0,0,0
+632,Gasworks Gallery,,,"3815 4th Ave NE Seattle, WA 98105","(47.654293, -122.324905)",0,0,0,0,0
+633,Unicorn,,,"1118 E Pike St Seattle, WA 98122","(47.614125, -122.317716)",0,0,0,0,0
+634,Pony,,,"1221 E Madison St Seattle, WA 98122","(47.613079, -122.315788)",0,0,0,0,0
+635,University Heights Center,,,"5031 University Way NE, Seattle, WA, 98105","(47.665829, -122.313675)",0,0,0,0,0
+636,The Bush School Speaker Series,,,"3400 East Harrison St Seattle, WA 98112","(47.622829, -122.286980)",0,0,0,0,0
+637,Neighbours,,,"1509 Broadway, Seattle, WA 98122","(47.614395, -122.321198)",0,0,0,0,0
+638,Julia's on Broadway,,,"300 Broadway East, Seattle, WA 98102","(47.621319, -122.320541)",0,0,0,0,0
+639,"Igimo Art Station, LLC",(206) 760-3797,632,"4739 Rainier Ave S, Seattle, WA 98118","(47.559563, -122.286736)",0,0,0,0,0
+640,University of Washington Q Center,(206) 897-1430,1100,"HUB 315, University of Washington, Seattle, WA 98195","(47.650349, -122.307216)",0,0,0,0,0
+641,Brass Tacks,,,"6031 Airport Way S Seattle, WA 98108","(47.548977, -122.316630)",0,0,0,0,0
+642,University of Washington Gallagher Law Library,(206) 543-4089,68000,"University of Washington Box 353025 Seattle, WA 98195","(47.656206, -122.312972)",0,0,0,0,0
+643,Cuff Complex,,,"1533 13th Avenue, Seattle, WA 98122","(47.614560, -122.315534)",0,0,0,0,0
+644,Seattle Eagle Tavern,,,,"(47.614323, -122.327164)",0,0,0,0,0
+645,Radio Variedades KXPA 1540 AM,(206) 571-3485,1640,"114 LakeSide Ave S Seattle, WA 98122","(47.601443, -122.285450)",0,0,0,0,0
+646,Cafe Nordo,(206) 579-6215,4100,"109 S. Main St., Seattle, WA 98104","(47.600040, -122.333781)",0,0,0,0,0
+647,Seattle ReCreative,"(206) 659-9383
+",2250,"8408 Greenwood Ave N. Seattle, WA 98103","(47.690174, -122.354958)",0,0,0,0,0
+648,Circle of Art Studios,,,"2821 Thorndyke Ave W Seattle, WA 98199","(47.645466, -122.383057)",0,0,0,0,0
+649,Rainier Valley Historical Society,(206) 723-1663,300,"3710 S Ferdinand Seattle, WA 98118","(47.55786, -122.285888)",0,0,0,0,0
+650,The Curious Nest,,,"2916 NE 55th St Seattle, WA 98105","(47.668777, -122.295395)",0,0,0,0,0
+651,Purlieu Hall,,,"102 S Jackson St, Seattle, WA 98104","(47.599220, -122.333919)",0,0,0,0,0
+652,Magnolia Community Center,,,"2550 34th Ave W, Seattle, WA 98199","(47.644508, -122.399582)",0,0,0,0,0
+653,Northgate Community Center,,,"10510 5th Ave NE, Seattle, WA 98125","(47.705193, -122.322426)",0,0,0,0,0
+654,Music4Life,(206) 409-3275,500,"422 1st Ave W #101 Seattle, WA 98199","(47.622452, -122.358414)",0,0,0,0,0
+655,Nupasa Art Studio & Gallery,,,"5539 Airport Way S Seattle, WA 98108","(47.552562, -122.320193)",0,0,0,0,0
+656,Green Lake Community Center,,,"7201 East Green Lake Dr N, Seattle, WA 98115","(47.680391, -122.325888)",0,0,0,0,0
+657,Meadowbrook Community Center,,,"10517 35th Ave NE, Seattle, WA 98125","(47.705251, -122.290856)",0,0,0,0,0
+658,Queen Anne Community Center,,,"1901 1st Ave W, Seattle, WA 98119","(47.635509, -122.359505)",0,0,0,0,0
+659,South Park Neighborhood and Senior Center,,,"8201 10th Ave S, Seattle, WA 98108","(47.529579, -122.320518)",0,0,0,0,0
+660,Moonphoto,(206) 783-3377,1500,"7704 Greenwood Ave. N. Seattle, WA 98103","(47.684927, -122.355308)",0,0,0,0,0
+661,ArtHouse,,,"2334 Elliott Ave. Seattle, WA 98121","(47.612782, -122.348907)",0,0,0,0,0
+662,Prole Drift,,,"523 S. Main St Seattle WA 98104
+","(47.600044, -122.327248)",0,0,0,0,0
+663,Voda Studios,,,"1050 W Nickerson St, Seattle, WA 98119","(47.654404, -122.370996)",0,0,0,0,0
+664,SoDo MakerSpace,,,"1914 Occidental Ave S, Seattle, WA 98134","(47.585333, -122.333270)",0,0,0,0,0
+665,Calypte Gallery,,,"1107 East Denny Way #A2 Seattle, WA 98122","(47.618587, -122.317818)",0,0,0,0,0
+666,Bonfire at Panama Hotel,,,"603 South Main Street, Seattle, WA 98104","(47.600030, -122.326102)",0,0,0,0,0
+667,One Reel,,,"215 6th Ave N, Seattle, WA 98109","(47.619994, -122.345018)",0,0,0,0,0
+668,NW Work Lofts,,,"3131 Western Ave #419, Seattle, WA 98121","(47.618248, -122.357430)",0,0,0,0,0
+669,Lightbank Studio,,,"2200 N Pacific St, Seattle, WA 98103","(47.649367, -122.332294)",0,0,0,0,0
+670,The Factory,,,"1216 10th Ave Seattle, WA 98122","(47.612338, -122.319368)",0,0,0,0,0
+671,Jefferson Community Center,,,"3801 Beacon Ave S, Seattle, WA 98108","(47.569634, -122.307473)",0,0,0,0,0
+672,Greg Thompson Productions,,,"921 Elliott Ave W, Seattle, WA 98119","(47.627329, -122.369350)",0,0,0,0,0
+673,Scarecrow Video,,,"5030 Roosevelt Way NE, Seattle WA 98105","(47.665920, -122.317085)",0,0,0,0,0
+674,Urban Work Lofts,,,"918 S Horton St, Seattle, WA 98134","(47.574190, -122.321154)",0,0,0,0,0
+675,Kobo at Hibo,,,"604 S Jackson St, Seattle, WA 98104","(47.599202, -122.326082)",0,0,0,0,0
+676,The Alice Gallery,(206) 853-9124,600," 6007 12th Ave South Seattle, WA 98108 ﻿","(47.548885, -122.317596)",0,0,0,0,0
+677,Mainframe,,,"5628 Airport Way S #110, Seattle, WA 98108","(47.551844, -122.319481)",0,0,0,0,0
+678,Alki Community Center,,,"5817 SW Stevens St, Seattle, WA 98116","(47.577271, -122.407364)",0,0,0,0,0
+679,IsGood Woodworks,,,"4660 E Marginal Way S #7, Seattle, WA 98134","(47.560593, -122.338676)",0,0,0,0,0
+680,The Lofts at 325 ,,,"325 Westlake Ave N, Seattle, WA 98109","(47.621704, -122.338860)",0,0,0,0,0
+681,Seattle Creative Arts,,,"2601 NW Market St, Seattle, WA 98107","(47.668377, -122.390541)",0,0,0,0,0
+682,Veronica Mt Baker Lofts,,,"2915 Rainer Avenue South, Suite 12B Seattle, WA 98144","(47.577168, -122.297668)",0,0,0,0,0
+683,Bitter Lake Community Center,,,"13035 Linden Ave N, Seattle, WA 98133","(47.724470, -122.348000)",0,0,0,0,0
+684,Montlake Community Center,,,"1618 E Calhoun St, Seattle, WA 98112","(47.643753, -122.309258)",0,0,0,0,0
+685,High Point Community Center,,,"6920 34th Ave SW, Seattle, WA 98126","(47.540237, -122.373360)",0,0,0,0,0
+686,Gallery Frames,,,"625 1st Ave #100, Seattle, WA 98104","(47.602364, -122.334595)",0,0,0,0,0
+687,Artspace Mt Baker Lofts,,,"2915 Rainier Avenue S., Seattle, WA, 98144","(47.577168, -122.297668)",0,0,0,0,0
+688,Earl Harper Studios,,,"5531 Airport Way S, Seattle, WA 98108","(47.552368, -122.320488)",0,0,0,0,0
+689,Bahia In Motion,(206) 819-3334,1250,"418 N 35th St Seattle, WA 98103","(47.651470, -122.353600)",0,0,0,0,0
+690,REDred Photo School & Studio,,,"815 Seattle Blvd S, Seattle, WA 98134","(47.595513, -122.327132)",0,0,0,0,0
+691,ID/Chinatown Community Center,,,"719 8th Ave S, Seattle, WA 98104","(47.596419, -122.322446)",0,0,0,0,0
+692,Miller Community Center,,,"330 19th Ave E, Seattle, WA 98112","(47.621688, -122.307328)",0,0,0,0,0
+693,Van Asselt Community Center,,,"2820 S Myrtle St, Seattle, WA 98108","(47.539444, -122.294067)",0,0,0,0,0
+694,Interstitial ,,,"6007 12th Ave South, 3rd Floor Seattle, WA 98108 ","(47.548885, -122.317596)",0,0,0,0,0
+695,Laurelhurst Community Center,,,"4554 NE 41st St, Seattle, WA 98105","(47.659863, -122.278038)",0,0,0,0,0
+696,Magnuson Community Center,,,"7110 62nd Ave NE, Seattle, WA 98115","(47.680642, -122.262270)",0,0,0,0,0
+697,Delridge Community Center & Hiawatha,,,"2700 California Ave SW, Seattle, WA 98116","(47.579173, -122.386637)",0,0,0,0,0
+698,Addison on Fourth,,,"308 4th Ave S Seattle, WA 98104
+","(47.599777, -122.328575)",0,0,0,0,0
+699,Bootstrap Music,,,,,0,0,0,0,0
+700,Swedish Hospital Art Collection,,,"747 Broadway Seattle, WA 98122
+","(47.6089681, -122.322102253206)",0,0,0,0,0
+701,Service League Harborview Medical Center Art Collection,,,"325 9th Ave Seattle, WA 98104","(47.604249, -122.323564)",0,0,0,0,0
+702,BJ Montoya Violin Studio,,,,,0,0,0,0,0
+703,DeCajon Project,,,,,0,0,0,0,0
+704,Rainier Beach Community Center,,,"8825 Rainier Ave S Seattle, WA 98118","(47.524445, -122.270500)",0,0,0,0,0
+705,Da Projectz Music Recording Studio,,,114 Alaskan Way South Suite 103 Seattle WA 98104,"(47.601212, -122.335220)",0,0,0,0,0
+706,Glass Eye Studio,,,"600 NW 40th Street Seattle, WA 98107","(47.656467, -122.364128)",0,0,0,0,0
+707,Parlor Live Seattle,,,"1522 6th Ave, Seattle, WA 98101","(47.611415, -122.334770)",0,0,0,0,0
+708,All Pilgrims Christian Church,,,"500 Broadway E, Seattle, WA 98102","(47.623360, -122.320374)",0,0,0,0,0
+709,Martin Blank Studios,,,"4407 6th Avenue Northwest, Seattle, WA 98107","(47.661133, -122.364212)",0,0,0,0,0
+710,New Century Theatre Company Offices,,,"1515 12th Ave Seattle, WA 98122","(47.614429, -122.317253)",0,0,0,0,0
+711,Secret Garden Books,,,"2214 NW Market St, Seattle, WA 98107","(47.668670, -122.385491)",0,0,0,0,0
+712,South Park Community Center,,,"8319 8th Ave S, Seattle, WA 98108 ","(47.528760, -122.322873)",0,0,0,0,0
+713,Seattle PI/Hearst Media Services,,," 2901 3rd Ave, Ste 120 Seattle, WA 98121","(47.618217, -122.351830)",0,0,0,0,0
+714,Three Dollar Bill Cinema,,,"1122 E. Pike St. #1313 Seattle, WA 98122","(47.614273, -122.317245)",0,0,0,0,0
+715,Tmrw Party,,,,,0,0,0,0,0
+716,Tooth & Nail Records,,,,,0,0,0,0,0
+717,Unique Art Framing & Gallery,,,"3429 Airport Way South, Seattle, WA 98134","(47.572744, -122.322579)",0,0,0,0,0
+718,School of Rock West Seattle,,,"4701 41st Ave SW Suite 120 Seattle, WA 98116
+","(47.560926, -122.384098)",0,0,0,0,0
+719,South Seattle Community College Olympic Hall,,,"6000 16th Avenue SW Seattle, WA 98106
+","(47.547234, -122.351929)",0,0,0,0,0
+720,West Seattle Art Nest,,,"4138 California Ave SW Seattle, WA, 98116","(47.565380, -122.386383)",0,0,0,0,0
+721,Temple of Cairo,,,"507 E. Mercer Seattle, WA 98102","(47.624282, -122.325052)",0,0,0,0,0
+722,University of Washington Engineering Library,,,"Engineering Building West Stevens Way NE, Seattle WA 98195
+","(47.654649, -122.304544)",0,0,0,0,0
+723,University of Washington Mathematics Research Library,,,Padelford Hall University of Washington Seattle WA 98195,"(47.656969, -122.304421)",0,0,0,0,0
+724,University of Washington Suzzallo Library,,,"4000 15th Avenue NE, Seattle WA 98105
+","(47.6722229, -122.3118912)",0,0,0,0,0
+725,University of Washington Physics Astronomy Reading Room (CLOSED),,,"3910 15th Ave NE, Seattle, WA 98105","(47.654080, -122.312135)",0,0,0,0,0
+726,University of Washington East Asia Library,,,"322 Gowen Hall Seattle WA 98195
+","(47.6563251, -122.3076233)",0,0,0,0,0
+727,University of Washington Department of Architecture,,,"Gould Hall, Seattle WA 98195
+","(47.6562474, -122.3092754)",0,0,0,0,0
+728,Piano Studio Seattle,,,"11716 23rd Ave NE, Seattle, WA 98125","(47.714474, -122.304138)",0,0,0,0,0
+729,University of Washington Built Environment Library,,,"3549 15th Avenue NE, Seattle WA 98105
+","(47.668530, -122.311890)",0,0,0,0,0
+730,University of Washington Intellectual House,,,"4249 Whitman Court, (E. Stevens Way and Whitman Court NE)","(47.6581986, -122.3042543)",0,0,0,0,0
+731,University of Washington Mary Gates Hall,,,"Seattle, WA 98195","(47.657048, -122.305271)",0,0,0,0,0
+732,University of Washington Social Work Library,,,"4101 15th Avenue NE, Seattle, WA 98105
+","(47.656967, -122.312055)",0,0,0,0,0
+733,University of Washington Art Library,,,"101 Art Building, University of Washington Seattle WA 98195","(47.65818, -122.306292)",0,0,0,0,0
+734,University of Washington Foster Business Library,,,"Paccar Hall, West Stevens Way NE, Seattle WA 98195","(47.659126, -122.308582)",0,0,0,0,0
+735,University of Washington Odegard Undergraduate Library,,,"4060 George Washington Lane NE, Seattle WA 98195","(47.656479, -122.311352)",0,0,0,0,0
+736,Showbox at the Market,(206) 628-3151,10000,"1426 1st Ave, Seattle, WA 98101","(47.608495, -122.339743)",0,0,0,0,0
+737,University of Washington Jacob Lawrence Gallery,,,"Art Building, Room 132 West Stevens Way NE, Seattle WA 98105","(47.6585722, -122.3065403)",0,0,0,0,0
+738,The Audio Connection,,,"5621A University Way Northeast, Seattle, WA 98105
+","(47.669975, -122.313045)",0,0,0,0,0
+739,University of Washington Communications Building,,,"Seattle, WA 98105","(47.657048, -122.305271)",0,0,0,0,0
+740,Studio Litho,,,"348 NW 54th St Seattle, WA 98107
+
+","(47.668137, -122.362778)",0,0,0,0,0
+741,Blessed Sacrament Church,,,"5041 9th Ave NE, Seattle, WA 98105","(47.665938, -122.318411)",0,0,0,0,0
+742,St. Stephens Episcopal Church,,,"4805 NE 45th St Seattle, WA 98105","(47.661064, -122.275932)",0,0,0,0,0
+743,Glassbox,,,"831 Seattle Blvd S Seattle, WA 98134","(47.595059, -122.326235)",0,0,0,0,0
+744,Leisure Books,,,"4537 California Ave SW, Seattle, WA 98116
+","(47.562161, -122.386790)",0,0,0,0,0
+745,C & P Coffee Company,(206) 933-3125,2000,"5612 California Ave SW, Seattle, WA 98136","(47.55166065, -122.386649552949)",0,0,0,0,0
+746,Salsa Con Todo,(206) 402-2945,1900,"750 North 34th St Seattle WA, 98103","(47.6494509, -122.3481059)",0,0,0,0,0
+747,Ballard Community Center,(206) 684-4093,100,"6020 28th Avenue NW Seattle, WA 98115","(47.672783, -122.391548)",0,0,0,0,0
+748,Linda Hodges Gallery,(206) 624-3034,2500,"316 1st Ave S, Seattle, WA 98146","(47.599457, -122.333794)",0,0,0,0,0
+749,Seattle Music Partners,(206) 409-2535,1000,"4533 Sunnyside Ave. N., Seattle, WA 98103","(47.662434, -122.330474397751)",0,0,0,0,0
+750,Seattle JazzED at MLK Fame Community Center,(206) 324-5299,30000,"3201 E. Republican St, Seattle, WA 98112","(47.62294115, -122.290777830614)",0,0,0,0,0
+751,Seattle's Performers LLC,(206) 473-9580,850,"5214 University Way NE Seattle, WA 98105","(47.6669041, -122.3127673)",0,0,0,0,0
+752,Jet City Improv,(206) 352-8291,4250,"5510 University Way NE Seattle, WA 98105","(47.6688694, -122.3126674)",0,0,0,0,0
+753,"Chop Suey, LLC.",(206) 538-0556,4957,"1325 E Madison St Seattle, WA 98122","(47.6134869, -122.314443274234)",0,0,0,0,0
+754,SURF Incubator,(206) 777-1177,22000,"999 3rd Ave, Suite 700 Seattle, WA 98104","(47.605034, -122.334244)",0,0,0,0,0
+755,North Seattle Chamber of Commerce/Lake City Community Center,(206) 363-3287,11000,"12531 28th Ave. NE, Seattle, WA 98125","(47.7203793, -122.2979988)",0,0,0,0,0
+756,SURFincubator II,(206) 777-1177,1800,"999 3rd Ave Suite700 Seattle, WA 98104","(47.605034, -122.334244)",0,0,0,0,0
+757,The Pioneer Collective,(206) 310-2863,6000,"100 South King Street, Suite 100 Seattle, WA 98104","(47.598572, -122.333794)",0,0,0,0,0
+758,University of Washington Music Library,(206) 543-1168,1800,"113 Music Building, University of Washington Seattle WA 98195","(47.657714, -122.305882)",0,0,0,0,0
+759,Seattle Musical Theatre,(206) 393-2809,5000,"7400 Sand Point Way NE #101N Seattle, WA 98103","(47.68239, -122.26369)",0,0,0,0,0
+760,Washington Lawyers for the Arts,(206) 328-7053,200,"701 5th Ave., Suite 4100, Seattle, WA 98104","(47.604548, -122.329935)",0,0,0,0,0
+761,Somali Community Services of Seattle,(206) 422-7074,2287,8810 Renton Ave South Seattle WA 98118,"(47.523941, -122.2762979)",0,0,0,0,0
+762,Illumination Learning Studio,(206) 789-ARTS,2500,"7720 Greenwood Ave N #101 Seattle, WA 98103","(47.68528, -122.354912)",0,0,0,0,0
+763,The Guitar Store,(206) 397-4438,4300,"8300 Aurora Ave N.Seattle, WA 98103","(47.6669041, -122.3127673)",0,0,0,0,0
+764,Zanadu Comics,(206) 443-1316,2400,"1923 3rd Ave Seattle,WA 98101-1104","(47.6688694, -122.3126674)",0,0,0,0,0
+765,Humanities Washington,(206) 682-1770,2450,"1015 8th Ave. N., Suite B, Seattle, WA 98109","(47.6134869, -122.314443274234)",0,0,0,0,0
+766,The Knitting School,(206) 353-1337,360,"1507 30th Ave S, Seattle WA 98144","(47.589146, -122.293938)",0,0,0,0,0
+767,The Movement Lab,(425) 289-6851,1800,"4336 University Way NE, Seattle, WA 98015","(47.7203793, -122.2979988)",0,0,0,0,0
+768,Revolution Books,(206) 325-7415,1200,"89 S Washington St, Seattle, WA 98104","(47.600887, -122.334482)",0,0,0,0,0
+769,Ravenna Third Place Books,(206) 525-2347,3500,"6504 20th Ave. NE Seattle, WA  98115","(47.675988, -122.306571)",0,0,0,0,0
+770,Can Can Kitchen and Cabaret,(206) 652-0832,500,"Pike Place Market, 94 Pike St., Seattle, WA 98101","(47.608811, -122.340249)",0,0,0,0,0
+771,Martyr Sauce,(206) 624-0495,110,"122 S Washington St. Seattle, WA 98104","(47.60089, -122.333385)",0,0,0,0,0
+772,Pilchuck Glass School Seattle,(206) 621-8422,2000,"240 2nd Ave S. Suite 100 Seattle, WA 98104","(47.60051, -122.331586)",0,0,0,0,0
+773,Peter Miller Books,(206) 441-4114,975,"2326 2nd Ave, Seattle, WA 98121","(47.614293, -122.346108)",0,0,0,0,0
+774,Fluteworks Seattle,(206) 729-1903,600,1029 NE 69th St Seattle WA 98115,"(47.678528, -122.316147)",0,0,0,0,0
+775,Laguna,(206) 682-6162,2000,"116 S. Washington St., Seattle, WA 98104","(47.601051, -122.333443)",0,0,0,0,0
+776,Feedback Lounge,(206) 453-3259,2900,"6451 California Ave. SW Seattle, WA 98136","(47.545139, -122.3874303)",0,0,0,0,0
+777,City of Seattle Loyal Hts,(206) 684-4052,30000,"2101 NW 77th St. Seattle, WA 98117","(47.6846957, -122.382841922987)",0,0,0,0,0
+778,Martin-Zambito Fine Art,(206) 726-9509,1200,"1117 Minor Ave, Seattle, WA 98101","(47.610901, -122.3254749)",0,0,0,0,0
+779,Kings Hall,(206) 550-4193,10000,"2929 27th Ave South Seattle, WA 98118","(47.5681098, -122.2973139)",0,0,0,0,0
+780,Color 1 Photo,(206) 622-7107,4000,"411 2nd Avenue Ext. S, Seattle, WA 98104","(47.599017, -122.331575)",0,0,0,0,0
+781,Small Faces/Crown Hill Center,(206) 782-2611,1000,"9250 14th Ave NW Seattle, WA 98117","(47.69725335, -122.373621116279)",0,0,0,0,0
+782,Arab Center of Washington,,200,"12525 28th Ave NE, 2nd Floor Seattle, WA 98125","(47.719806, -122.297703)",0,0,0,0,0
+783,Dance! West Seattle,(206) 938-3062,1600,"9131 California Ave SW, Seattle, WA 98136","(47.52195755, -122.387874637492)",0,0,0,0,0
+784,Brooke Westlund Studio + Gallery,(425) 681-6037,500,"1516 Western Avenue Seattle, WA 98101","(47.6088638, -122.3413696)",0,0,0,0,0
+785,Cornish College of the Arts,(206) 726-5151,400000,1000 Lenora Street Seattle WA 98121,"(47.6088638, -122.3413696)",0,0,0,0,0
+786,ArtsFund,(206) 281-9050,3700,"10 Harrison St Suite 200 Seattle, WA 98109","(47.61819595, -122.336233098351)",0,0,0,0,0
+787,Arts and Visually Impaired Audiences,(206) 323-7190,90,"400 Harvard Ave. E. #202, Seattle, WA 98102","(47.622562, -122.321693)",0,0,0,0,0
+788,Bass Northwest,(206) 622-2277,2500,"119 Yesler Way, Seattle, WA 98104","(47.622562, -122.321701)",0,0,0,0,0
+789,Belltown Ballet BBC Studio,(206) 851-6526,1200,"2306 4th Ave Seattle, WA 98121","(47.6015999, -122.3332441)",0,0,0,0,0
+790,AXIS Pioneer Square,(206) 681-9316,6000,"308 1st Ave S, Seattle, WA, 98104","(47.615789, -122.3441663)",0,0,0,0,0
+791,All Metal Arts Hazardfactory,(206) 200-9496,3000,"7800 7th Ave South Seattle, WA 98108","(47.5997442, -122.3338965)",0,0,0,0,0
+792,Black Box Operations 12th Avenue Arts,(206 )566-6112,5000,1620 12th Ave Suite 101 Seattle WA 98122,"(47.5324205, -122.324957600657)",0,0,0,0,0
+793,Emeralda Works,(206) 498-9208,310,500 Aloha St #105 Seattle WA 98109,"(47.627403, -122.347137)",0,0,0,0,0
+794,Hall Spassov Gallery,(206) 923-0816,5000,"319 3rd Avenue S Seattle, WA 98104","(47.627403, -122.347137)",0,0,0,0,0
+795,Seattle Presents: A Gallery,(206) 733-9955,320,"700 5th Avenue, Suite 401, Seattle, WA 98104","(47.5994156, -122.3305147)",0,0,0,0,0
+796,Pegasus Book Exchange,,,"4553 California Ave SW Seattle, WA 98116
+","(47.561455, -122.387177)",0,0,0,0,0
+797,West Seattle Fabric Company,,,"3400 Harbor Ave SW, #106 Seattle, WA 98126
+","(47.572735, -122.370430)",0,0,0,0,0
+798,Woodland Park United Methodist,(206) 784-6969 ,1200,"302 N 78th St, Seattle, WA 98103","(47.685528, -122.355046)",0,0,0,0,0
+799,Vocalist Studio,,,,,0,0,0,0,0
+800,Peel Studios,,,,,0,0,0,0,0
+801,Dynamic Sound Service,,,,,0,0,0,0,0
+802,McComb Sound,,,"2230 1st Ave South Seattle, WA  98134","(47.582939, -122.333694)",0,0,0,0,0
+803,Saint Marks,,,"1245 10th Ave East Seattle, WA 98102
+","(47.631859, -122.321548)",0,0,0,0,0
+804,First Free Methodist,,,"3200 3rd Ave West, Seattle, WA 98119","(47.649357, -122.360626)",0,0,0,0,0
+805,Rainier Valley Cultural Center,,,"3515 S Alaska St, Seattle, WA 98118","(47.560467, -122.287979)",0,0,0,0,0
+806,Fuzzy Lounge Recording,,,"4742 42nd Ave SW #617 Seattle, WA 98116","(47.560037, -122.385507)",0,0,0,0,0
+807,Haller Lake Community Club,,,"12579 Densmore Ave N Seattle, WA 98133","(47.721672, -122.338554)",0,0,0,0,0
+808,Daybreak Star Cultural Center,,,"3801 Bernie Whitebear Way, Seattle, WA 98199","(47.651680, -122.402069)",0,0,0,0,0
+809,The Control Room,,,"2220 NW Market St, Seattle, WA 98107","(47.669090, -122.385796)",0,0,0,0,0
+810,Stone Way Cafe,,,"3510 Stone Way N, Seattle, WA 98103","(47.649878, -122.342711)",0,0,0,0,0
+811,House Studios,,,"325 2nd Ave West Seattle, WA 98119","(47.621780, -122.359718)",0,0,0,0,0
+812,Bookworm Exchange,,,"5800 Rainier Ave S Seattle, WA 98118","(47.550287, -122.277273)",0,0,0,0,0
+813,Oromo Community Organization,,,"2718 S Jackson St Seattle, WA 98144","(47.599216, -122.296595)",0,0,0,0,0
+814,Horn of Africa Services,,,"4714 Rainier Avenue South Suite 105                                     Seattle, WA 98118","(47.560077, -122.286461)",0,0,0,0,0
+815,Chinese Information and Service Center,,,"611 S Lane St Seattle, WA 98104
+","(47.596665, -122.325649)",0,0,0,0,0
+816,Ted Brown Music,(206) 622-0171,2000,"1006 NE 65th St, Seattle WA 98105 ","(47.675826, -122.317088)",0,0,0,0,0
+817,Bill & Melinda Gates Foundation Visitor Center,(206) 709-3100,10000,"440 5th Ave. N, Seattle 98109","(47.622541, -122.34748)",0,0,0,0,0
+818,"Stretch and Staple Canvas Printing Company
+",(206) 607-9277,1150,"8005 Greenwood Ave N. Seattle, WA 98103
+","(47.687136, -122.355306)",0,0,0,0,0
+819,Fiber Gallery,,,"8212 Greenwood Avenue North, Seattle, WA 98103
+","(47.688610, -122.355293)",0,0,0,0,0
+820,St. James Cathedral,"804 9th Ave Seattle, WA 98104
+",,804 9th Ave Seattle WA 98104,"(47.607586, -122.325935)",0,0,0,0,0
+821,Kremwerk,,,"1809 Minor Ave #10, Seattle, WA 98101","(47.616871, -122.331184)",0,0,0,0,0
+822, KUOW Puget Sound Public Radio,,,"4518 University Way NE, Suite 310, Seattle WA 98105","(47.661858, -122.312790)",0,0,0,0,0
+823,Seattle Center Phelps Center PNB Studios & Offices,,,"301 Mercer Street Seattle, WA 98109",,0,0,0,0,0
+824,"KCTS 9 
+","401 Mercer St. Seattle, WA, 98109
+
+",,"401 Mercer St. Seattle WA 98109
+","(47.623882, -122.348251)",0,0,0,0,0
+825,Seattle Center Fisher Pavilion,,,"298 2nd Ave N, Seattle, WA 98109","(47.620840, -122.352825)",0,0,0,0,0
+826,SIFF Cinema Uptown (see SIFF for answers to survey),,,"511 Queen Anne Ave N Seattle, Wa 98019","(47.623616, -122.356725)",0,0,0,0,0
+827,Pacific Northwest Ballet,(206) 441-9411,51000,"301 Mercer Street, Seattle, WA 98109","(47.623844, -122.349586)",0,0,0,0,0
+828,Rainier Dance Center,,,"9264 57th Ave S, Seattle, WA 98118","(47.519753, -122.261269)",0,0,0,0,0
+829,Chihuly Workshop,,,"1111 NW 50th St, Seattle, WA 98107","(47.665052, -122.371220)",0,0,0,0,0
+830,Phinney Books,,,"7405 Greenwood Ave. N Seattle, WA 98103","(47.682785, -122.355621)",0,0,0,0,0
+831,Made Sewing Studio,,,"101 N 85th St., Suite 201 Seattle, WA 98103","(47.690380, -122.357727)",0,0,0,0,0
+832,Mercer Street Books,,,"7 Mercer St Seattle, WA 98109","(47.624592, -122.356451)",0,0,0,0,0
+833,Queen Anne Book Company,,,"1811 Queen Anne Avenue North Seattle, WA 98109","(47.635185, -122.357361)",0,0,0,0,0
+834,Tara Academy of Irish Dance Studio,,,"8551 Greenwood Avenue North, Suite 4 Seattle, WA 98103
+","(47.692089, -122.355721)",0,0,0,0,0
+835,Arts in Motion,,,"4730 32nd Ave S Seattle, WA","(47.559883, -122.290634)",0,0,0,0,0
+836,East African Community Services,,,"7054 32nd Ave S, Seattle, WA 98118","(47.539423, -122.291018)",0,0,0,0,0
+837,Seattle Neighborhood Group,,,"1810 E. Yesler Way, Seattle, WA 98122","(47.601849, -122.308388)",0,0,0,0,0
+838,Music Center of the Nrthwest,2065268443,7500,"901 N 96th St Seattle, WA 98103","(47.698452, -122.346947)",0,0,0,0,0
+839,Rosewood Guitar,206 297-8788,2000,"8402 GREENWOOD AVE N SEATTLE, WA 98103","(47.68998, -122.354958)",0,0,0,0,0
+840,All That Dance,206-457-4891,3000,320 N 85th St.  Seattle WA 98103,"(47.691212, -122.354279)",0,0,0,0,0
+841,The Salvation Army,206-783-1225,19311,9501 Greenwood Ave N Seattle WA 98103,"(47.698257, -122.355942)",0,0,0,0,0
+842,Music Center of the Nrthwest,2065268443,7500,"901 N 96th St Seattle, WA 98103","(47.698452, -122.346947)",0,0,0,0,0
+843,School of Rock,206 417-7625,2999,106 N 85th Seattle WA 98103,"(47.690653, -122.357728)",0,0,0,0,0
+844,Urban Light Studios,2067087281,4000,8537 Greenwood Ave N Seattle WA 98103,"(47.691631, -122.355713)",0,0,0,0,0
+845,98.1 Classical KING FM,206-691-2981,4000,"10 Harrison Street, Suite 100, Seattle, 98109","(47.622152, -122.356531)",0,0,0,0,0
+846,Southwest Seattle Historical Society,206-938-5293,1100,"3003 61st Ave SW, Seattle, WA 98116-2810","(47.577553, -122.41095)",0,0,0,0,0
+847,Moksha,2066322622,3000,4542 NE University Way,"(47.662073, -122.31303)",0,0,0,0,0
+848,WordsWest Literary Series,2069301276,1500,"PO BOX 16035, Seattle, WA 98116",,0,0,0,0,0
+849,ProletariYacht Club,206-799-1180,1064,"4316 SW Othello, Seattle. Wa. 98136","(47.538437, -122.38826)",0,0,0,0,0
+850,"Dreamstrands Comics & Such, Inc.",206-297-3737,2000,"115 N 85th ST suite 102, Seattle, WA 98103","(47.69038, -122.357391)",0,0,0,0,0
+851,St. Luke's Episcopal Church Seattle,206-784-3119,10000,"5710 22nd Ave. NW, Seattle, WA 98107","(47.67041, -122.384102)",0,0,0,0,0
+852,SPCCCPPC,2063590359,126,"4223 S. Kenyon St., Seattle, WA 98118","(47.531185, -122.279564)",0,0,0,0,0
+853,Rainier Chamber of Commerce & Rainier Chamber Foundation,206.725.2010,1000,"5290 Rainier Ave. S, Seattle, WA 98118","(47.554125, -122.281108)",0,0,0,0,0
+854,Emerald City Fired Arts Studio and Gallery,206-7210450,1323,"3333 Rainier Ave. S. Suite A  Seattle, WA98144","(47.572998, -122.294708)",0,0,0,0,0
+855,Vespertine Noise,206 923-8409,1600,"4909 Rainier Ave S, Seattle, WA 98118","(47.557722, -122.284917)",0,0,0,0,0
+856,Royal Esquire Club Inc.,206-723-2811,9000,"5016 Rainier Ave South, Seattle, WA 98118","(47.556855, -122.284429)",0,0,0,0,0
+857,Southside Commons,206-568-5400,8060,"3518 S. Edmunds St., Seattle, 98118","(47.558868, -122.287971)",0,0,0,0,0
+858,Vietnamese Friendship Association,206-760-1573,1300,"3829B South Edmunds Street, Seattle, WA 98118","(47.558494, -122.284164)",0,0,0,0,0
+859,Rainier Community Center,2063861919,28400,"4600 38th Ave. S. Seattle, WA  98118","(47.561654, -122.284859)",0,0,0,0,0
+860,Columbia City Farmers Market,206-632-5234,10000,36th Ave A and S Edmunds St 98118,"(47.542519, -122.269028)",0,0,0,0,0
+861,Ark Lodge Cinemas,206 721 3156,7000,"4816 Rainier Ave South, Seattle, 98118","(47.559012, -122.285612)",0,0,0,0,0
+862,The Hillman City Collaboratory,(206) 669-8106,9000,"5623 Rainier Ave. S. Seattle, WA 98118","(47.551691, -122.278043)",0,0,0,0,0
