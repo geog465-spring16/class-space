@@ -1,0 +1,863 @@
+id,NBHD
+1,Downtown
+2,Capitol Hill
+3,Greenwood
+4,Greenwood
+5,Belltown
+6,University District
+7,International
+8,Central District
+9,Ballard
+10,Magnolia
+11,South Lake Union
+12,Downtown
+13,Capitol Hill
+14,Seattle Center in Uptown
+15,Seattle Center in Uptown
+16,Seattle Center in Uptown
+17,Belltown
+18,International District
+19,Central District
+20,Belltown
+21,University District
+22,Ballard
+23,Capitol Hill
+24,Seattle Center in Uptown
+25,Belltown
+26,Green Lake
+27,South Lake Union
+28,Wallingford
+29,West Seattle
+30,Central District
+31,West Seattle
+32,Capitol Hill
+33,Capitol Hill
+34,International Districtrict
+35,University District
+36,Fremont
+37,Ballard
+38,Beacon Hill
+39,Greenwood
+40,Capitol Hill
+41,Columbia City
+42,West Seattle
+43,Central District
+44,Fremont
+45,Green Lake
+46,Greenwood
+47,West Seattle
+48,International District
+49,Lake City
+50,Madrona
+51,Magnolia
+52,Downtown
+53,Montlake
+54,Beacon Hill
+55,Sand Point
+56,Northgate
+57,Queen Anne
+58,Rainier Beach
+59,South Park
+60,West Seattle
+61,University District
+62,Wallingford
+63,West Seattle
+64,First Hill
+65,Central District
+66,Pioneer Square
+67,Greenwood
+68,Capitol Hill
+69,
+70,Lake City
+71,West Seattle
+72,Capitol Hill
+73,West Seattle
+74,Pioneer Square
+75,Georgetown
+76,SODO
+77,Pioneer Square
+78,Beacon Hill
+79,Capitol Hill
+80,First Hill
+81,Downtown
+82,Interbay
+83,University District
+84,Capitol Hill
+85,Georgetown
+86,Ballard
+87,Greenlake
+88,Capitol Hill
+89,Seattle Center in Uptown
+90,Seattle Center in Uptown
+91,Seattle Center in Uptown
+92,Seattle Center in Uptown
+93,
+94,Seattle Center in Uptown
+95,Uptown
+96,Belltown
+97,University District
+98,Downtown
+99,Central District
+100,Fremont
+101,West Seattle
+102,Capitol Hill
+103,First Hill
+104,Ballard
+105,Greenwood
+106,Columbia City
+107,Capitol Hill
+108,Ravenna
+109,Eastlake
+110,First Hill
+111,Georgetown
+112,Ballard
+113,Haller Lake
+114,Central District
+115,Hillman City
+116,First Hill
+117,Greenwood
+118,Fremont
+119,Capitol Hill
+120,Pioneer Square
+121,Beacon Hill
+122,Columbia City
+123,Wallingford
+124,Downtown
+125,Ballard
+126,Ballard
+127,Wallingford
+128,Greenwood
+129,Ballard
+130,Downtown
+131,Downtown
+132,Downtown
+133,Crown Hill
+134,West Seattle
+135,Columbia City
+136,Belltown
+137,West Seattle
+138,Phinney Ridge
+139,Capitol Hill
+140,Belltown
+141,Fremont
+142,Ballard
+143,Columbia City
+144,Greenwood
+145,Ballard
+146,West Seattle
+147,Pinehurst
+148,Capitol Hill
+149,Central District
+150,Fremont
+151,Uptown
+152,University District
+153,Belltown
+154,Sand Point
+155,International District
+156,Georgetown
+157,Seattle Center in Uptown
+158,Seattle Center in Uptown
+159,Seattle Center in Uptown
+160,Seattle Center in Uptown
+161,Seattle Center in Uptown
+162,Seattle Center in Uptown
+163,Seattle Center in Uptown
+164,Capitol Hill
+165,Wedgwood
+166,Green Lake
+167,SODO
+168,West Seattle
+169,Madrona
+170,Central District
+171,Belltown
+172,University District
+173,Downtown
+174,Fremont
+175,Greenwood
+176,Uptown
+177,Downtown
+178,Belltown
+179,International District
+180,First Hill
+181,Belltown
+182,West Seattle
+183,University District
+184,Universtiy District
+185,University District
+186,First Hill
+187,Capitol Hill
+188,Capitol Hill
+189,Capitol Hill
+190,Maple Leaf
+191,Pioneer Square
+192,Central District
+193,Lake City
+194,West Seattle
+195,International District
+196,Ballard
+197,Pioneer Square
+198,South Lake Union
+199,Downtown
+200,Pioneer Square
+201,Phinney Ridge
+202,Greenwood
+203,Central District
+204,Uptown
+205,Georgetown
+206,Beacon Hill
+207,University
+208,Greenwood
+209,Pioneer Square
+210,Belltown
+211,Pioneer Square
+212,Queen Anne
+213,Capitol Hill
+214,Capitol Hill
+215,Pioneer Square
+216,Georgetown
+217,Pioneer Square
+218,Georgetown
+219,Capitol Hill
+220,Pioneer Square
+221,Georgetown
+222,First Hill
+223,Georgetown
+224,Georgetown
+225,Downtown
+226,Downtown
+227,Georgetown
+228,Downtown
+229,Central District
+230,Belltown
+231,Capitol Hill
+232,Pioneer Square
+233,Capitol Hill
+234,Central District
+235,Greenwood
+236,Interbay
+237,Downtown
+238,Central District
+239,Mount Baker
+240,Pioneer Square
+241,Belltown
+242,Greenwood
+243,Downtown
+244,Downtown
+245,Capitol Hill
+246,West Seattle
+247,Capitol Hill
+248,Downtown
+249,International District
+250,South Lake Union
+251,Pioneer Square
+252,Pioneer Square
+253,University District
+254,Madrona
+255,Pioneer Square
+256,Downtown
+257,South Lake Union
+258,Rainier Valley
+259,Boeing Field
+260,South Lake Union
+261,University District
+262,Central District
+263,University District
+264,Downtown
+265,Central District
+266,South Lake Union
+267,Northgate
+268,Capitol Hill
+269,
+270,
+271,
+272,
+273,
+274,
+275,
+276,
+277,
+278,
+279,
+280,
+281,
+282,
+283,
+284,
+285,
+286,
+287,
+288,
+289,Capitol Hill
+290,
+291,
+292,
+293,
+294,
+295,
+296,Lake City Way
+297,
+298,
+299,
+300,
+301,
+302,
+303,
+304,
+305,
+306,
+307,
+308,
+309,
+310,
+311,
+312,
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,Central District
+327,
+328,University District
+329,
+330,
+331,
+332,
+333,
+334,
+335,
+336,
+337,
+338,
+339,
+340,
+341,
+342,
+343,
+344,
+345,
+346,Interbay
+347,Northgate
+348,
+349,
+350,
+351,
+352,
+353,
+354,
+355,
+356,
+357,
+358,
+359,
+360,University District
+361,
+362,
+363,
+364,
+365,
+366,
+367,
+368,
+369,
+370,
+371,
+372,
+373,International District
+374,Northgate
+375,Ballard
+376,Highland Park
+377,Ballard
+378,Rosetown
+379,
+380,
+381,
+382,Central District
+383,
+384,Northgate
+385,Downtown
+386,
+387,Wallingford
+388,Ballard
+389,Ballard
+390,Phinney Ridge
+391,International District
+392,Capitol Hill
+393,Downtown
+394,Greenwood
+395,Georgetown
+396,Downtown
+397,Downtown
+398,
+399,
+400,
+401,Ballard
+402,
+403,University District and Laurelhurst/Sand Point
+404,
+405,Downtown
+406,
+407,Crown Hill
+408,
+409,
+410,
+411,South Lake Union
+412,Chinatown International District
+413,Downtown
+414,
+415,
+416,
+417,
+418,Ballard
+419,
+420,
+421,Wallingford
+422,Interbay
+423,University District
+424,
+425,
+426,
+427,
+428,
+429,
+430,University District
+431,
+432,
+433,
+434,
+435,
+436,Central District
+437,
+438,
+439,
+440,
+441,
+442,West Seattle
+443,
+444,University District
+445,
+446,
+447,University District
+448,
+449,Capitol Hill
+450,
+451,
+452,
+453,
+454,Belltown
+455,
+456,
+457,
+458,
+459,
+460,
+461,
+462,Georgetown
+463,Greenwood
+464,
+465,
+466,Capitol Hill
+467,
+468,
+469,
+470,
+471,
+472,
+473,
+474,First Hill
+475,
+476,
+477,
+478,
+479,
+480,Admiral
+481,
+482,
+483,Wallingford
+484,
+485,
+486,
+487,
+488,
+489,
+490,
+491,
+492,
+493,First Hill
+494,Queen Anne
+495,
+496,
+497,
+498,
+499,
+500,
+501,
+502,
+503,
+504,
+505,
+506,Queen Anne
+507,
+508,
+509,
+510,
+511,
+512,
+513,
+514,
+515,
+516,
+517,
+518,SODO
+519,
+520,
+521,
+522,Ravenna
+523,
+524,
+525,
+526,
+527,Chinatown International District
+528,
+529,
+530,
+531,
+532,
+533,
+534,Ballard
+535,
+536,
+537,
+538,
+539,
+540,
+541,
+542,
+543,
+544,
+545,
+546,
+547,
+548,
+549,
+550,
+551,
+552,
+553,
+554,
+555,
+556,West Seattle
+557,
+558,
+559,
+560,
+561,
+562,
+563,
+564,
+565,
+566,
+567,
+568,
+569,Capitol Hill
+570,
+571,
+572,
+573,
+574,Magnolia
+575,
+576,SODO
+577,
+578,
+579,University District
+580,University District
+581,
+582,
+583,
+584,
+585,
+586,
+587,
+588,
+589,
+590,
+591,
+592,
+593,
+594,
+595,
+596,
+597,
+598,
+599,
+600,
+601,
+602,Ravenna
+603,
+604,
+605,
+606,
+607,Madison Valley
+608,
+609,West Seattle
+610,
+611,
+612,Capitol Hill
+613,University District
+614,
+615,
+616,
+617,
+618,
+619,
+620,
+621,
+622,
+623,Queen Anne
+624,
+625,
+626,Ballard
+627,
+628,Eastlake
+629,
+630,
+631,
+632,
+633,
+634,
+635,
+636,
+637,
+638,
+639,Columbia City
+640,University District
+641,
+642,University District
+643,
+644,
+645,Leschi
+646,Pioneer Square
+647,Greenwood
+648,
+649,Rainier Valley
+650,
+651,
+652,
+653,
+654,Queen Anne
+655,
+656,
+657,
+658,
+659,
+660,Greenwood
+661,
+662,
+663,
+664,
+665,
+666,
+667,
+668,
+669,
+670,
+671,
+672,
+673,
+674,
+675,
+676,Georgetown
+677,
+678,
+679,
+680,
+681,
+682,
+683,
+684,
+685,
+686,
+687,
+688,
+689,Fremont
+690,
+691,
+692,
+693,
+694,
+695,
+696,
+697,
+698,
+699,
+700,
+701,
+702,
+703,
+704,
+705,
+706,
+707,
+708,
+709,
+710,
+711,
+712,
+713,
+714,
+715,
+716,
+717,
+718,
+719,
+720,
+721,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729,
+730,
+731,
+732,
+733,
+734,
+735,
+736,Downtown
+737,
+738,
+739,
+740,
+741,
+742,
+743,
+744,
+745,West Seattle
+746,Fremont
+747,Ballard
+748,Pioneer Square
+749,Central District
+750,Madison Valley
+751,University District
+752,University District
+753,Capitol Hill
+754,Downtown
+755,Lake City Way
+756,Downtown
+757,Pioneer Square
+758,University District
+759,Laurelhurst/Sand Point
+760,Downtown
+761,Southside Seattle
+762,Phinney Ridge
+763,Green Lake
+764,Downtown
+765,South Lake Union
+766,Mt. Baker
+767,University District
+768,Pioneer Square
+769,Ravenna
+770,Pike Market
+771,Pioneer Square
+772,Pioneer Square
+773,Belltown
+774,Ravenna
+775,Pioneer Square
+776,West Seattle
+777,Loyal Heights
+778,First Hill
+779,Beacon Hill
+780,Pioneer Square
+781,Crown Hill
+782,Haller Lake
+783,Fauntleroy
+784,Pike Market
+785,South Lake Union
+786,Queen Anne
+787,Capitol Hill
+788,Pioneer Square
+789,Belltown
+790,Pioneer Square
+791,South Park
+792,Capitol Hill
+793,Capitol Hill
+794,Pioneer Square
+795,Downtown
+796,
+797,
+798,Greenwood
+799,
+800,
+801,
+802,
+803,
+804,
+805,
+806,
+807,
+808,
+809,
+810,
+811,
+812,
+813,
+814,
+815,
+816,University District
+817,Uptown
+818,Greenwood
+819,
+820,
+821,
+822,
+823,
+824,
+825,
+826,
+827,Uptown
+828,
+829,
+830,
+831,
+832,
+833,
+834,
+835,
+836,
+837,
+838,Greenwood
+839,Greenwood
+840,Greenwood
+841,Greenwood
+842,Greenwood
+843,Greenwood
+844,Greenwood
+845,Seattle Center in UptO
+846,Alki
+847,University District
+848,West Seattle
+849,West Seattle
+850,Greenwood
+851,Ballard
+852,Rainier Valley
+853,Columbia City
+854,Mt. Baker
+855,Columbia City
+856,Columbia City
+857,Columbia City
+858,Columbia City
+859,Columbia City
+860,Columbia City
+861,Columbia City
+862,Hillman City
