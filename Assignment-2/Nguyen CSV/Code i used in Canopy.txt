@@ -1,0 +1,148 @@
+BeatID
+import sys
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\bin')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\arcpy')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\ArcToolbox\\Scripts')
+import arcpy
+import csv
+
+test_file = "C:\Users\Rich\Desktop\S1.csv"
+csv_file = csv.DictReader(open(test_file, 'rb'), delimiter=',', quotechar='"')
+test_array = []
+
+for line in csv_file:
+    test_array.append({'BeatID': line['Police Beat']});
+   
+
+fieldnames = ['BeatID']
+test_file = open('BeatID.csv','wb')
+csvwriter = csv.DictWriter(test_file, delimiter=',', fieldnames=fieldnames)
+csvwriter.writerow(dict((fn,fn) for fn in fieldnames))
+for row in test_array:
+     csvwriter.writerow(row)
+test_file.close()
+
+
+
+
+
+
+
+
+CrimeID
+import sys
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\bin')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\arcpy')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\ArcToolbox\\Scripts')
+import arcpy
+import csv
+
+test_file = "C:\Users\Rich\Desktop\S1.csv"
+csv_file = csv.DictReader(open(test_file, 'rb'), delimiter=',', quotechar='"')
+test_array = []
+
+i = 1
+
+for line in csv_file:
+    test_array.append({'CrimeID': i, 'Crime_Type': line['CRIME_TYPE'], 'Crime_Description': line['CRIME_DESCRIPTION']});
+    i += 1;
+    if i == 8:
+        i = 1
+
+fieldnames = ['CrimeID', 'Crime_Type', 'Crime_Description']
+test_file = open('CrimeID.csv','wb')
+csvwriter = csv.DictWriter(test_file, delimiter=',', fieldnames=fieldnames)
+csvwriter.writerow(dict((fn,fn) for fn in fieldnames))
+for row in test_array:
+     csvwriter.writerow(row)
+test_file.close()
+
+
+
+
+
+
+
+LocationID
+import sys
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\bin')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\arcpy')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\ArcToolbox\\Scripts')
+import arcpy
+import csv
+
+test_file = "C:\Users\Rich\Desktop\S1.csv"
+csv_file = csv.DictReader(open(test_file, 'rb'), delimiter=',', quotechar='"')
+test_array = []
+
+for line in csv_file:
+    test_array.append({'SectorID': line['Sector'], 'PrecinctID': line['Precinct']});
+   
+
+fieldnames = ['SectorID', 'PrecinctID']
+test_file = open('LocationID.csv','wb')
+csvwriter = csv.DictWriter(test_file, delimiter=',', fieldnames=fieldnames)
+csvwriter.writerow(dict((fn,fn) for fn in fieldnames))
+for row in test_array:
+     csvwriter.writerow(row)
+test_file.close()
+
+
+
+
+
+
+IncidentLocationID
+import sys
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\bin')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\arcpy')
+sys.path.append('C:\\Program Files (x86)\\ArcGIS\\Desktop10.3\\ArcToolbox\\Scripts')
+import arcpy
+import csv
+
+test_file = "C:\Users\Rich\Desktop\S1.csv"
+csv_file = csv.DictReader(open(test_file, 'rb'), delimiter=',', quotechar='"')
+
+test_file2 = "C:\Users\Rich\Desktop\CrimeID.csv"
+csv_file2 = csv.DictReader(open(test_file2, 'rb'), delimiter=',', quotechar='"')
+
+test_file3 = "C:\Users\Rich\Desktop\BeatID.csv"
+csv_file3 = csv.DictReader(open(test_file3, 'rb'), delimiter=',', quotechar='"')
+
+test_array = []
+
+rows = list(csv_file)
+totalrows = len(rows)
+
+with open(test_file2, 'rb') as f2: #opens test_file2(CrimeID.csv)
+    reader2 = csv.reader(f2) #reads CrimeID.csv
+    reader2.next() #throw first line away since we dont need it
+
+    with open(test_file, 'rb') as f: #opens test_file(S1.csv)
+        reader = csv.reader(f) #reads S1.csv
+        reader.next()    #throw first line away since we dont need it
+
+
+        with open(test_file3, 'rb') as f3: #opens test_file3(BeatID.csv)
+            reader3 = csv.reader(f3) #reads BeatID.csv
+            reader3.next()  #throw first line away since we dont need it
+
+            for i in range (0, totalrows): #loops from 0 - max row#
+                s1Row = reader.next() #Gets next row of s1.csv
+                s1Date = s1Row[4]  #since date is in 5th column in s1.csv           
+            
+                crimeIDRow = reader2.next() #Gets next row of CrimeID.csv
+                crimeID = crimeIDRow[0] #since date is in 1st column in CrimeID.csv 
+            
+                beatIDRow = reader3.next() #Gets next row of BeatID.csv
+                beatID = beatIDRow[0] #since date is in 1st column in BeatID.csv 
+
+                test_array.append({'CrimeID': crimeID,'DateID': s1Date, 'BeatID': beatID});
+
+fieldnames = ['CrimeID', 'DateID', 'BeatID']
+test_file = open('IncidentLocationID.csv','wb')
+csvwriter = csv.DictWriter(test_file, delimiter=',', fieldnames=fieldnames)
+csvwriter.writerow(dict((fn,fn) for fn in fieldnames))
+for row in test_array:
+    csvwriter.writerow(row)
+test_file.close()
